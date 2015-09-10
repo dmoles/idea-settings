@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Ruby/Append current directory to path" />
+  </component>
+</application>
