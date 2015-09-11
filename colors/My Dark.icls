@@ -1055,9 +1055,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="52503a" />
-        <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="807a60" />
+        <option name="ERROR_STRIPE_COLOR" value="807a60" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
