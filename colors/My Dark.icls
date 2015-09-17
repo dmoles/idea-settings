@@ -63,9 +63,7 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="ffff33" />
-        <option name="BACKGROUND" value="cc0033" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -74,10 +72,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC">
+    <option name="BASH.INTERNAL_COMMAND">
       <value>
-        <option name="BACKGROUND" value="5a5a5a" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="5991ff" />
       </value>
     </option>
     <option name="BASH.REDIRECTION">
@@ -281,8 +278,8 @@
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="6a8759" />
-        <option name="EFFECT_COLOR" value="cc2952" />
-        <option name="ERROR_STRIPE_COLOR" value="cc2952" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -388,10 +385,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="73172f" />
-        <option name="EFFECT_COLOR" value="ff3366" />
-        <option name="ERROR_STRIPE_COLOR" value="cc2952" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -459,13 +455,14 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b389c5" />
+        <option name="EFFECT_COLOR" value="b389c5" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="403d30" />
-        <option name="ERROR_STRIPE_COLOR" value="403a20" />
+        <option name="BACKGROUND" value="303329" />
+        <option name="ERROR_STRIPE_COLOR" value="8c9678" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -477,6 +474,12 @@
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9876aa" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Implicit conversion">
+      <value>
+        <option name="EFFECT_COLOR" value="5f5f5f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -755,6 +758,7 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="808080" />
+        <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
