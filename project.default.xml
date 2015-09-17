@@ -27,6 +27,7 @@
             <entry key="$USER_HOME$/Projects/np" value="2861856364000" />
             <entry key="$USER_HOME$/Projects/scala-enum" value="2869161406000" />
             <entry key="$USER_HOME$/Work/Dash/ResourceSync/bindings" value="2859322410000" />
+            <entry key="$USER_HOME$/Work/EOT/eoth-tools" value="2884512223000" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -59,10 +60,10 @@
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
+          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
