@@ -72,10 +72,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC">
+    <option name="BASH.INTERNAL_COMMAND">
       <value>
-        <option name="BACKGROUND" value="5a5a5a" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="5991ff" />
       </value>
     </option>
     <option name="BASH.REDIRECTION">
@@ -462,9 +461,9 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="aeae80" />
-        <option name="ERROR_STRIPE_COLOR" value="aeae80" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="BACKGROUND" value="303329" />
+        <option name="ERROR_STRIPE_COLOR" value="8c9678" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -1055,9 +1054,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="52503a" />
-        <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="807a60" />
+        <option name="ERROR_STRIPE_COLOR" value="807a60" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
