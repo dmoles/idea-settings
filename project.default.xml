@@ -1,6 +1,6 @@
 <application>
   <component name="ProjectManager">
-    <defaultProject version="4">
+    <defaultProject>
       <component name="CompilerConfiguration">
         <resourceExtensions />
         <wildcardResourcePatterns>
@@ -20,6 +20,9 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
@@ -28,7 +31,6 @@
             <entry key="$USER_HOME$/Projects/scala-enum" value="2869161406000" />
             <entry key="$USER_HOME$/Work/Dash/ResourceSync/bindings" value="2859322410000" />
             <entry key="$USER_HOME$/Work/EOT/eoth-tools" value="2884512223000" />
-            <entry key="$USER_HOME$/Work/Scratch/fileupload-test" value="1445980275000" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -42,9 +44,6 @@
           </MavenGeneralSettings>
         </option>
       </component>
-      <component name="NamedScopeManager">
-        <order />
-      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -54,9 +53,6 @@
         <OptionsSetting value="true" id="Edit" />
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
-      </component>
-      <component name="ProjectModuleManager">
-        <modules />
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="RunManager">

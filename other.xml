@@ -98,6 +98,10 @@
       <option name="PATTERN" value="org.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="ExternalResourceManagerImpl">
     <resource url="antlib:org.apache.maven.artifact.ant" location="$USER_HOME$/Work/UCOP/was-indexer-service/lib/maven-ant-tasks-2.1.3.jar!/org/apache/maven/artifact/ant/antlib.xml" />
