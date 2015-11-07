@@ -20,9 +20,6 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
@@ -31,6 +28,7 @@
             <entry key="$USER_HOME$/Projects/scala-enum" value="2869161406000" />
             <entry key="$USER_HOME$/Work/Dash/ResourceSync/bindings" value="2859322410000" />
             <entry key="$USER_HOME$/Work/EOT/eoth-tools" value="2884512223000" />
+            <entry key="$USER_HOME$/Work/Scratch/fileupload-test" value="1445980275000" />
           </map>
         </option>
         <option name="externalProjectsViewState">
