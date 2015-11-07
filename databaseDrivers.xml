@@ -2,7 +2,8 @@
   <component name="LocalDatabaseDriverManager">
     <driver id="db2.base" name="DB2" dialect="DB2">
       <option name="auto-sync" value="false" />
-      <driver id="db2" name="DB2 LUW">
+      <driver id="db2" name="DB2 LUW" dialect="DB2">
+        <option name="auto-sync" value="false" />
         <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
       </driver>
       <driver id="db2.jtopen" name="JTOpen (DB2 iSeries)" dialect="DB2" />
@@ -66,6 +67,39 @@
       <option name="auto-sync" value="true" />
       <driver id="sqlite.xerial" name="Xerial" />
       <driver id="sqlite.zentus" name="Zentus" />
+    </driver>
+    <driver id="h2.unified" name="H2" dialect="H2">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="derby.remote" name="Derby (Remote)" dialect="Derby">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
+      <option name="auto-sync" value="true" />
     </driver>
   </component>
 </application>
