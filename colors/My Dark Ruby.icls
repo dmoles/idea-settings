@@ -1,7 +1,8 @@
 <scheme name="My Dark Ruby" version="141" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="CARET_ROW_COLOR" value="141414" />
@@ -95,6 +96,12 @@
         <option name="BACKGROUND" value="202020" />
       </value>
     </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="1d2d3b" />
+        <option name="ERROR_STRIPE_COLOR" value="43698d" />
+      </value>
+    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="bc3f3c" />
@@ -140,6 +147,13 @@
         <option name="FOREGROUND" value="ffff80" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="52503a" />
+        <option name="ERROR_STRIPE_COLOR" value="52503a" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
