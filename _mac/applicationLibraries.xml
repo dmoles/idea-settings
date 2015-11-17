@@ -1691,6 +1691,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/orm_adapter-0.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="parser (v2.1.9, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/parser-2.1.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/parser-2.1.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/parser-2.1.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/parser-2.1.9/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.2.2.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/parser-2.2.2.0/bin" />
@@ -1744,6 +1755,15 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/parser-2.2.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/parser-2.2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.0.9, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/powerpack-0.0.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/powerpack-0.0.9/lib" />
       </SOURCES>
     </library>
     <library name="powerpack (v0.1.0, RVM: ruby-2.2.2) [gem]">
@@ -2342,6 +2362,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-3.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.4.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-3.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-activerecord (v0.0.2, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-activerecord-0.0.2/lib" />
@@ -2384,6 +2413,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-core-3.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.4.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-core-3.4.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-core-3.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-core-3.4.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-core-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.2.1, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-expectations-3.2.1/lib" />
@@ -2409,6 +2449,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-expectations-3.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.4.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-expectations-3.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-expectations-3.4.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.2.1, RVM: ruby-2.2.2) [gem]">
@@ -2438,6 +2487,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-mocks-3.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.4.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-mocks-3.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-mocks-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.2.2, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-support-3.2.2/lib" />
@@ -2463,6 +2521,30 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-support-3.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.4.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-support-3.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-support-3.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.21.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.21.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.21.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.21.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.21.0/relnotes" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.21.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.21.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.21.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.21.0/relnotes" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.29.1, RVM: ruby-2.2.2) [gem]">
@@ -2768,6 +2850,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/simplecov-html-0.9.0/public" />
       </SOURCES>
     </library>
+    <library name="slop (v3.6.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="spring (v1.4.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/spring-1.4.0/bin" />
@@ -2926,6 +3017,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-4e1727134d8e/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-4e1727134d8e/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-4e1727134d8e/data" />
+      </SOURCES>
+    </library>
+    <library name="stash-wrapper (v0.0.3@d72eb6, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-d72eb6a5d11f/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-d72eb6a5d11f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-d72eb6a5d11f/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-d72eb6a5d11f/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-d72eb6a5d11f/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-d72eb6a5d11f/data" />
+      </SOURCES>
+    </library>
+    <library name="stash-wrapper (v0.0.4@863cad, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-863cad45436e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-863cad45436e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-863cad45436e/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-863cad45436e/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-863cad45436e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-wrapper-863cad45436e/data" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.1, RVM: ruby-2.0.0-p643) [gem]">
@@ -3128,6 +3245,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/xml-mapping_extensions-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-mapping_extensions (v0.2.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/xml-mapping_extensions-0.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/xml-mapping_extensions-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-mapping_extensions (v0.2.1, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/xml-mapping_extensions-0.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/xml-mapping_extensions-0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="yard (v0.8.7.6, RVM: ruby-2.2.2) [gem]">
