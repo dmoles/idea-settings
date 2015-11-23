@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,8 +19,8 @@
       <mask>response.rb</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.rb</mask>
       <mask>*.py</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
