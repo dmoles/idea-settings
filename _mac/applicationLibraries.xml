@@ -2421,6 +2421,11 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="Python 2.7.10 (/usr/bin/python2.7) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 2.7.10 virtualenv at ~/Dropbox/Writing/_Ephemera/Ephemera 2016/Scripts/virtualenv interpreter library">
       <CLASSES />
       <JAVADOC />
