@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="YARD" description="YARD documentation tool" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="bundle" />
+      <option name="PARAMETERS" value="exec yardoc --list-undoc" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
