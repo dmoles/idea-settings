@@ -1412,6 +1412,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/datacite-mapping-f5907ac4ddf4/lib" />
       </SOURCES>
     </library>
+    <library name="datacite-mapping (v0.1.4@0453b9, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/datacite-mapping-0453b9f883ea/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/datacite-mapping-0453b9f883ea/lib" />
+      </SOURCES>
+    </library>
     <library name="datacite-mapping (v0.1.4@0453b9, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/datacite-mapping-0453b9f883ea/lib" />
@@ -6326,6 +6335,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.34.2/relnotes" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.35.1, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/logo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/relnotes" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/logo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.35.1/relnotes" />
+      </SOURCES>
+    </library>
     <library name="rubocop (v0.35.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.35.1/bin" />
@@ -7458,6 +7486,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/tins-1.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/tins-1.5.1/tests" />
+      </SOURCES>
+    </library>
+    <library name="tins (v1.6.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/tins-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/tins-1.6.0/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/tins-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/tins-1.6.0/tests" />
       </SOURCES>
     </library>
     <library name="tins (v1.6.0, RVM: ruby-2.2.3) [gem]">
