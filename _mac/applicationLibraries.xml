@@ -895,13 +895,11 @@
     </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
@@ -1150,14 +1148,12 @@
     </library>
     <library name="byebug (v8.2.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/8.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.1/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/8.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.1/lib" />
@@ -1699,13 +1695,11 @@
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -3728,7 +3722,6 @@
     </library>
     <library name="json (v1.8.3, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/json-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/json-1.8.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/json-1.8.3/data" />
@@ -3739,7 +3732,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/json-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/json-1.8.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/json-1.8.3/data" />
@@ -3846,14 +3838,12 @@
     </library>
     <library name="libv8 (v3.16.14.13, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/libv8/3.16.14.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.13-x86_64-darwin-14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.13-x86_64-darwin-14/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.13-x86_64-darwin-14/vendor" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/libv8/3.16.14.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.13-x86_64-darwin-14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.13-x86_64-darwin-14/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.13-x86_64-darwin-14/vendor" />
@@ -4342,14 +4332,12 @@
     </library>
     <library name="mysql2 (v0.3.20, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/mysql2/0.3.20" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mysql2-0.3.20/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mysql2-0.3.20/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mysql2-0.3.20/support" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/mysql2/0.3.20" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mysql2-0.3.20/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mysql2-0.3.20/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mysql2-0.3.20/support" />
@@ -4612,7 +4600,6 @@
     </library>
     <library name="nokogiri (v1.6.7.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.7.1/lib" />
@@ -4623,7 +4610,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.7.1/lib" />
@@ -4858,7 +4844,6 @@
     </library>
     <library name="passenger (v5.0.23, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/passenger/5.0.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.23/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.23/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.23/man" />
@@ -4869,7 +4854,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/passenger/5.0.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.23/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.23/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.23/man" />
@@ -6174,14 +6158,12 @@
     </library>
     <library name="redcarpet (v3.3.4, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/redcarpet/3.3.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/redcarpet-3.3.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/redcarpet-3.3.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/redcarpet-3.3.4/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/redcarpet/3.3.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/redcarpet-3.3.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/redcarpet-3.3.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/redcarpet-3.3.4/lib" />
@@ -7815,7 +7797,6 @@
     </library>
     <library name="sqlite3 (v1.3.11, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sqlite3-1.3.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sqlite3-1.3.11/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sqlite3-1.3.11/lib" />
@@ -7823,7 +7804,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sqlite3-1.3.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sqlite3-1.3.11/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sqlite3-1.3.11/lib" />
@@ -8002,6 +7982,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-wrapper-7714f079960d/data" />
       </SOURCES>
     </library>
+    <library name="stash_datacite (v0.0.5@9b8a7c, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_datacite-9b8a7caa2ee5/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_datacite-9b8a7caa2ee5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_datacite-9b8a7caa2ee5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_datacite-9b8a7caa2ee5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_datacite-9b8a7caa2ee5/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_datacite-9b8a7caa2ee5/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_datacite-9b8a7caa2ee5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_datacite-9b8a7caa2ee5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_datacite-9b8a7caa2ee5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_datacite-9b8a7caa2ee5/config" />
+      </SOURCES>
+    </library>
     <library name="stash_datacite (v0.0.5@cff470, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_datacite-cff470554316/db" />
@@ -8034,6 +8031,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-634de4e29f6c/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-634de4e29f6c/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-634de4e29f6c/config" />
+      </SOURCES>
+    </library>
+    <library name="stash_engine (v0.0.17@80f147, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-80f147ac5ab3/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-80f147ac5ab3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-80f147ac5ab3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-80f147ac5ab3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-80f147ac5ab3/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-80f147ac5ab3/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-80f147ac5ab3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-80f147ac5ab3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-80f147ac5ab3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-80f147ac5ab3/config" />
       </SOURCES>
     </library>
     <library name="stash_engine (v0.0.17@95e942, RVM: ruby-2.2.3) [gem]">
@@ -8114,13 +8128,11 @@
     </library>
     <library name="therubyracer (v0.12.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/therubyracer/0.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/therubyracer-0.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/therubyracer-0.12.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/therubyracer/0.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/therubyracer-0.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/therubyracer-0.12.2/lib" />
       </SOURCES>
