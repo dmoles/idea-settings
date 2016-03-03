@@ -3309,12 +3309,14 @@
     </library>
     <library name="github-markdown (v0.6.8, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/github-markdown/0.6.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markdown-0.6.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markdown-0.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markdown-0.6.8/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/github-markdown/0.6.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markdown-0.6.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markdown-0.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markdown-0.6.8/lib" />
@@ -5170,6 +5172,7 @@
     </library>
     <library name="nokogiri (v1.6.5, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.5/lib" />
@@ -5178,6 +5181,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.5/lib" />
@@ -5413,12 +5417,14 @@
     </library>
     <library name="nokogumbo (v1.4.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogumbo/1.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogumbo-1.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogumbo-1.4.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogumbo-1.4.1/gumbo-parser" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogumbo/1.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogumbo-1.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogumbo-1.4.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogumbo-1.4.1/gumbo-parser" />
@@ -6783,12 +6789,14 @@
     </library>
     <library name="rb-fsevent (v0.9.7, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rb-fsevent/0.9.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rb-fsevent-0.9.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rb-fsevent-0.9.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rb-fsevent-0.9.7/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rb-fsevent/0.9.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rb-fsevent-0.9.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rb-fsevent-0.9.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rb-fsevent-0.9.7/lib" />
