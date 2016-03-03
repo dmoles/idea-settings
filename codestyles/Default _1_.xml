@@ -12,6 +12,9 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <ScalaCodeStyleSettings>
+    <option name="KEEP_XML_FORMATTING" value="true" />
+  </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
