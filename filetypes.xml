@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="solr-dash2" type="Bash" />
+      <mapping pattern="*.md.txt" type="Markdown" />
     </extensionMap>
   </component>
 </application>
