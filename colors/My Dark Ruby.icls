@@ -168,13 +168,6 @@
     <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
     <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT" />
-    <option name="RHTML_EXPRESSION_END_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_EXPRESSION_START_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_OMIT_NEW_LINE_ID" baseAttributes="XML_ATTRIBUTE_NAME" />
-    <option name="RHTML_SCRIPTING_BACKGROUND_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_SCRIPTLET_END_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_SCRIPTLET_START_ID" baseAttributes="XML_TAG_NAME" />
     <option name="RUBY_BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="0" />
@@ -182,26 +175,6 @@
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
-    <option name="RUBY_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="RUBY_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
-    <option name="RUBY_CVAR" baseAttributes="DEFAULT_STATIC_FIELD" />
-    <option name="RUBY_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="RUBY_HASH_ASSOC" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="RUBY_HEREDOC_CONTENT" baseAttributes="TEXT" />
-    <option name="RUBY_HEREDOC_ID" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="RUBY_INTERPOLATED_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="RUBY_INVALID_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="RUBY_IVAR" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="RUBY_LINE_CONTINUATION" baseAttributes="DEFAULT_COMMA" />
-    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="RUBY_NUMBER" baseAttributes="DEFAULT_NUMBER" />
-    <option name="RUBY_OPERATION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="RUBY_REGEXP" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="RUBY_SPECIFIC_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
-    <option name="RUBY_SYMBOL" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
