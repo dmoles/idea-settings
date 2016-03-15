@@ -75,6 +75,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="bf627b" />
+        <option name="BACKGROUND" value="1a1a1a" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
