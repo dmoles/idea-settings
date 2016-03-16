@@ -103,6 +103,9 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="DependencyUISettings">
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
   <component name="ExternalResourceManagerImpl">
     <resource url="antlib:org.apache.maven.artifact.ant" location="$USER_HOME$/Work/UCOP/was-indexer-service/lib/maven-ant-tasks-2.1.3.jar!/org/apache/maven/artifact/ant/antlib.xml" />
     <resource url="http://dash.cdlib.org/stash_wrapper/stash_wrapper.xsd" location="$USER_HOME$/Work/Stash/stash-wrapper/spec/data/wrapper/stash_wrapper.xsd" />
