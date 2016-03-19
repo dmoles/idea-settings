@@ -137,7 +137,7 @@
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="aeae80" />
+        <option name="BACKGROUND" value="26241d" />
         <option name="ERROR_STRIPE_COLOR" value="756d56" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -151,9 +151,7 @@
     <option name="Implicit conversion first part" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Implicit conversion second part" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JAVA_COMMA" baseAttributes="DEFAULT_COMMA" />
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_SEMICOLON" baseAttributes="DEFAULT_SEMICOLON" />
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
@@ -207,7 +205,6 @@
     </option>
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="Scala Immutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Scala Mutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
