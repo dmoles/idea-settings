@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'conditrix_main'" />
-    <option name="defaultScopeName" value="Module 'conditrix_main'" />
+    <option name="customScope" value="File '/Users/dmoles/Projects/conditrix/src/test/java/com/allstarstories/conditrix/SourceTreeTest.java'" />
+    <option name="defaultScopeName" value="File '/Users/dmoles/Projects/conditrix/src/test/java/com/allstarstories/conditrix/SourceTreeTest.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'conditrix_main'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/dmoles/Projects/conditrix/src/test/java/com/allstarstories/conditrix/SourceTreeTest.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
