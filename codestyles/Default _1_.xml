@@ -12,9 +12,6 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <ScalaCodeStyleSettings>
-    <option name="KEEP_XML_FORMATTING" value="true" />
-  </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -35,6 +32,9 @@
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="200" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
