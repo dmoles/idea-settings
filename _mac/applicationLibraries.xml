@@ -5542,6 +5542,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/libxml-ruby-2.8.0/script" />
       </SOURCES>
     </library>
+    <library name="libxml-ruby (v2.8.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/libxml-ruby/2.8.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/script" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/libxml-ruby/2.8.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/script" />
+      </SOURCES>
+    </library>
     <library name="liquid (v3.0.6, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/liquid-3.0.6/lib" />
@@ -8395,6 +8410,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-compiler-0.9.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-compiler-0.9.6/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-compiler-0.9.6/features" />
+      </SOURCES>
+    </library>
+    <library name="ratom (v0.9.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ratom-0.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ratom-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="rb-fchange (v0.0.6, RVM: ruby-2.2.2) [gem]">
