@@ -16,6 +16,9 @@
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="282828" />
+  </colors>
   <attributes>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
@@ -42,6 +45,11 @@
         <option name="FOREGROUND" value="47b37d" />
       </value>
     </option>
+    <option name="DEFAULT_COMMA">
+      <value>
+        <option name="FOREGROUND" value="3399cc" />
+      </value>
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="b999cc" />
@@ -64,6 +72,11 @@
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="88cc7a" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOT">
+      <value>
+        <option name="FOREGROUND" value="3399cc" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -95,7 +108,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="a6748d" />
+        <option name="FOREGROUND" value="bf7c9e" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -108,10 +121,20 @@
         <option name="FOREGROUND" value="3d9ccc" />
       </value>
     </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="206080" />
+      </value>
+    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="ba99cc" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="303030" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
