@@ -6254,6 +6254,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="multipart-post (v2.0.0@2fc8b6, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/multipart-post-2fc8b675f763/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/multipart-post-2fc8b675f763/lib" />
+      </SOURCES>
+    </library>
     <library name="mysql2 (v0.3.18, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mysql2-0.3.18/ext" />
