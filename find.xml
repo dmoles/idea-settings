@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Java source" />
-    <option name="defaultScopeName" value="Java source" />
+    <option name="customScope" value="Java production source" />
+    <option name="defaultScopeName" value="Java production source" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Java source" />
+    <option name="SEARCH_SCOPE" value="Java production source" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
