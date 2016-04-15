@@ -133,7 +133,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="756d56" />
+        <option name="BACKGROUND" value="403b2f" />
         <option name="ERROR_STRIPE_COLOR" value="756d56" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
