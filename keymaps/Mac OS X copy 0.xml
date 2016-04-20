@@ -3,13 +3,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="CollapseAllRegions" />
-  <action id="CollapseBlock" />
-  <action id="CollapseRegion" />
-  <action id="CollapseSelection" />
   <action id="EditorSelectWord" />
-  <action id="ExpandAllRegions" />
-  <action id="ExpandRegion" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt tab" />
