@@ -3338,6 +3338,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-3.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v3.6.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-3.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-3.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-3.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets-rails (v2.3.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-rails-2.3.2/lib" />
@@ -3750,6 +3761,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-df6dd18bfd1e/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-df6dd18bfd1e/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-df6dd18bfd1e/config" />
+      </SOURCES>
+    </library>
+    <library name="sword2ruby (v1.0.1@d62d47, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/sword2ruby-d62d476fbf0d/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/sword2ruby-d62d476fbf0d/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.1.7, RVM: ruby-2.2.3) [gem]">
