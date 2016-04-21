@@ -650,6 +650,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/childprocess-0.5.9/lib" />
       </SOURCES>
     </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/coderay-1.1.0/bin" />
@@ -939,6 +948,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debase-ruby_core_source-0.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.8.6, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debase-ruby_core_source-0.8.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debase-ruby_core_source-0.8.6/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.2.3) [gem]">
@@ -1677,6 +1695,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.13-x86_64-darwin-14/vendor" />
       </SOURCES>
     </library>
+    <library name="libxml-ruby (v2.8.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/script" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libxml-ruby-2.8.0/script" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.0.3, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/listen-3.0.3/bin" />
@@ -2118,6 +2149,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/orm_adapter-0.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="parser (v2.2.2.6, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.2.2.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.2.2.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.2.2.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.2.2.6/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.2.3.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.2.3.0/bin" />
@@ -2493,6 +2535,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-compiler-0.9.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-compiler-0.9.6/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-compiler-0.9.6/features" />
+      </SOURCES>
+    </library>
+    <library name="ratom (v0.9.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ratom-0.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ratom-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="rb-fsevent (v0.9.7, RVM: ruby-2.2.3) [gem]">
@@ -3470,6 +3521,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/standalone_migrations-4.0.3/example" />
       </SOURCES>
     </library>
+    <library name="stash-harvester (v0.0.1@0dfddb, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-0dfddbd83135/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-0dfddbd83135/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-0dfddbd83135/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-0dfddbd83135/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-0dfddbd83135/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-0dfddbd83135/lib" />
+      </SOURCES>
+    </library>
     <library name="stash-wrapper (v0.1.0@6f875e, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-wrapper-6f875e653275/lib" />
@@ -3763,6 +3827,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash_engine-df6dd18bfd1e/config" />
       </SOURCES>
     </library>
+    <library name="sword2ruby (v1.0.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sword2ruby-1.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sword2ruby-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="sword2ruby (v1.0.1@d62d47, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/sword2ruby-d62d476fbf0d/lib" />
@@ -4027,6 +4100,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/webmock-1.24.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/webmock-1.24.3/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/webmock-1.24.3/minitest" />
+      </SOURCES>
+    </library>
+    <library name="whenever (v0.9.4, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/whenever-0.9.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/whenever-0.9.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/whenever-0.9.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/whenever-0.9.4/lib" />
       </SOURCES>
     </library>
     <library name="xml-mapping (v0.10.0, RVM: ruby-2.2.3) [gem]">
