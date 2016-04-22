@@ -3599,6 +3599,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-0dfddbd83135/lib" />
       </SOURCES>
     </library>
+    <library name="stash-harvester (v0.0.1@1dec87, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-1dec87559dab/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-1dec87559dab/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-1dec87559dab/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-1dec87559dab/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-1dec87559dab/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-1dec87559dab/lib" />
+      </SOURCES>
+    </library>
     <library name="stash-harvester (v0.0.1@2bbf7b, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-2bbf7b0cc3b2/db" />
