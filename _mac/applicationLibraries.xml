@@ -764,6 +764,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/airbrake-4.1.0/generators" />
       </SOURCES>
     </library>
+    <library name="airbrussh (v1.0.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/airbrussh-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/airbrussh-1.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/airbrussh-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/airbrussh-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ansi (v1.5.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ansi-1.5.0/lib" />
@@ -1478,6 +1489,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-3.4.1/features" />
       </SOURCES>
     </library>
+    <library name="capistrano (v3.5.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-3.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-3.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-3.5.0/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-3.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-3.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-3.5.0/features" />
+      </SOURCES>
+    </library>
     <library name="capistrano-bundler (v1.1.4, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/capistrano-bundler-1.1.4/lib" />
@@ -1494,6 +1518,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-bundler-1.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-harrow (v0.3.2, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-harrow-0.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-harrow-0.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-harrow-0.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-harrow-0.3.2/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-passenger (v0.2.0, RVM: ruby-2.2.3) [gem]">
@@ -2058,6 +2093,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/datacite-mapping-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="datacite-mapping (v0.1.10, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/datacite-mapping-0.1.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/datacite-mapping-0.1.10/lib" />
       </SOURCES>
     </library>
     <library name="datacite-mapping (v0.1.1@249fed, RVM: ruby-2.2.3) [gem]">
@@ -6927,6 +6971,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/resync-0.4.3/lib" />
       </SOURCES>
     </library>
+    <library name="resync (v0.4.3, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-0.4.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-0.4.3/lib" />
+      </SOURCES>
+    </library>
     <library name="resync-client (v0.3.3, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/resync-client-0.3.3/lib" />
@@ -6997,6 +7050,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-client-0.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="resync-client (v0.4.4, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-client-0.4.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-client-0.4.4/lib" />
       </SOURCES>
     </library>
     <library name="rouge (v1.10.1, RVM: ruby-2.2.2) [gem]">
@@ -9166,6 +9228,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.3/data" />
+      </SOURCES>
+    </library>
+    <library name="stash-wrapper (v0.1.4, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.4/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.4/data" />
       </SOURCES>
     </library>
     <library name="stash_datacite (v0.0.5@9b8a7c, RVM: ruby-2.2.3) [gem]">
