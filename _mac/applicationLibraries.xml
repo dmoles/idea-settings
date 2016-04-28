@@ -1471,6 +1471,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.4/lib" />
       </SOURCES>
     </library>
+    <library name="byebug (v8.2.5, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/byebug-8.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="callsite (v0.0.11, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/callsite-0.0.11/lib" />
@@ -1559,6 +1572,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-harrow-0.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-harrow-0.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-harrow (v0.4.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-harrow-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-harrow-0.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-harrow-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-harrow-0.4.0/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-passenger (v0.2.0, RVM: ruby-2.2.3) [gem]">
@@ -2134,6 +2158,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/datacite-mapping-0.1.10/lib" />
       </SOURCES>
     </library>
+    <library name="datacite-mapping (v0.1.12, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/datacite-mapping-0.1.12/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/datacite-mapping-0.1.12/lib" />
+      </SOURCES>
+    </library>
     <library name="datacite-mapping (v0.1.1@249fed, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/datacite-mapping-249fed97f101/lib" />
@@ -2522,6 +2555,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="devise (v4.0.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.1/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-4.0.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="devise-guests (v0.3.3, RVM: ruby-2.2.2) [gem]">
@@ -4586,6 +4636,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.13-x86_64-darwin-14/vendor" />
       </SOURCES>
     </library>
+    <library name="libv8 (v3.16.14.15, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/libv8/3.16.14.15" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.15-x86_64-darwin-14/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.15-x86_64-darwin-14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.15-x86_64-darwin-14/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/libv8/3.16.14.15" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.15-x86_64-darwin-14/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.15-x86_64-darwin-14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/libv8-3.16.14.15-x86_64-darwin-14/vendor" />
+      </SOURCES>
+    </library>
     <library name="libxml-ruby (v2.8.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/libxml-ruby-2.8.0/ext" />
@@ -5106,6 +5171,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/multi_json-1.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.11.3, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/multi_json-1.11.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/multi_json-1.11.3/lib" />
       </SOURCES>
     </library>
     <library name="multi_xml (v0.5.5, RVM: ruby-2.2.2) [gem]">
@@ -5848,6 +5922,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.0.7/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.1.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="passenger (v5.0.23, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.23/bin" />
@@ -5932,6 +6017,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.27/build" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.27/resources" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.27/download_cache" />
+      </SOURCES>
+    </library>
+    <library name="passenger (v5.0.28, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/dev" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/build" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/resources" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/download_cache" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/dev" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/build" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/resources" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.28/download_cache" />
       </SOURCES>
     </library>
     <library name="poltergeist (v1.6.0, RVM: ruby-2.2.2) [gem]">
@@ -7072,6 +7178,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-0.4.3/lib" />
       </SOURCES>
     </library>
+    <library name="resync (v0.4.4, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/resync-0.4.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/resync-0.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="resync (v0.4.4, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-0.4.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-0.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="resync-client (v0.3.3, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/resync-client-0.3.3/lib" />
@@ -7151,6 +7275,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-client-0.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="resync-client (v0.4.5, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-client-0.4.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-client-0.4.5/lib" />
       </SOURCES>
     </library>
     <library name="rouge (v1.10.1, RVM: ruby-2.2.2) [gem]">
@@ -8065,6 +8198,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ruby-progressbar-1.7.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.8.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ruby-progressbar-1.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ruby-progressbar-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby2ruby (v2.1.4, RVM: ruby-2.2.2) [gem]">
@@ -9206,6 +9348,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/stash-sword-2cde77166c5b/notes" />
       </SOURCES>
     </library>
+    <library name="stash-sword (v0.0.1@3253b7, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-sword-3253b7bc702d/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-sword-3253b7bc702d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-sword-3253b7bc702d/notes" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-sword-3253b7bc702d/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-sword-3253b7bc702d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-sword-3253b7bc702d/notes" />
+      </SOURCES>
+    </library>
     <library name="stash-sword (v0.0.1@402679, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-sword-40267988d341/bin" />
@@ -9381,6 +9536,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.4/data" />
+      </SOURCES>
+    </library>
+    <library name="stash-wrapper (v0.1.5, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.5/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.5/data" />
       </SOURCES>
     </library>
     <library name="stash_datacite (v0.0.5@9b8a7c, RVM: ruby-2.2.3) [gem]">
@@ -10538,6 +10704,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/xml-mapping_extensions-0.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-mapping_extensions (v0.3.5, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/xml-mapping_extensions-0.3.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/xml-mapping_extensions-0.3.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-mapping_extensions (v0.3.5, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/xml-mapping_extensions-0.3.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/xml-mapping_extensions-0.3.5/lib" />
       </SOURCES>
     </library>
     <library name="xpath (v2.0.0, RVM: ruby-2.2.2) [gem]">
