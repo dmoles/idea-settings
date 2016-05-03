@@ -2468,6 +2468,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.1, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta6, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/debase-0.2.2.beta6/ext" />
@@ -2512,6 +2523,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debase-0.2.2.beta7/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta7, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-0.2.2.beta7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-0.2.2.beta7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-0.2.2.beta7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-0.2.2.beta7/lib" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.7.10, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/debase-ruby_core_source-0.7.10/lib" />
@@ -2528,6 +2550,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debase-ruby_core_source-0.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.9.0, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-ruby_core_source-0.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-ruby_core_source-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.2.2) [gem]">
@@ -8814,6 +8845,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ruby-debug-ide-0.6.1.beta2/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-debug-ide (v0.6.1.beta2, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-enum (v0.4.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/ruby-enum-0.4.0/lib" />
@@ -11608,6 +11652,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/bundler/gems/xml-mapping_extensions-04c3f656e4d3/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-mapping_extensions (v0.3.7@5a8dd0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/xml-mapping_extensions-5a8dd0c2d88a/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/xml-mapping_extensions-5a8dd0c2d88a/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-mapping_extensions (v0.3.7@5a8dd0, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/bundler/gems/xml-mapping_extensions-5a8dd0c2d88a/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/bundler/gems/xml-mapping_extensions-5a8dd0c2d88a/lib" />
       </SOURCES>
     </library>
     <library name="xpath (v2.0.0, RVM: ruby-2.2.2) [gem]">
