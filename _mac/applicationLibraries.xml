@@ -2894,6 +2894,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160310/tool" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20160310, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/domain_name-0.5.20160310/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/domain_name-0.5.20160310/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/domain_name-0.5.20160310/tool" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/domain_name-0.5.20160310/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/domain_name-0.5.20160310/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/domain_name-0.5.20160310/tool" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.24, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/domain_name-0.5.24/lib" />
@@ -4211,6 +4224,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/http-cookie-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.2, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/http-cookie-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/http-cookie-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="hydra-validations (v0.4.0@bd9a84, RVM: ruby-2.2.2) [gem]">
@@ -5849,6 +5871,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/netrc-0.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/netrc-0.11.0/data" />
+      </SOURCES>
+    </library>
+    <library name="netrc (v0.11.0, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/netrc-0.11.0/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/netrc-0.11.0/data" />
       </SOURCES>
     </library>
     <library name="noids_client (v0.0.1@7081fa, RVM: ruby-2.2.2) [gem]">
@@ -7715,6 +7748,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rest-client-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rest-client-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rest-client (v1.8.0, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rest-client-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rest-client-1.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rest-client-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rest-client-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="resync (v0.3.0, RVM: ruby-2.2.2) [gem]">
@@ -11242,6 +11286,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/unf-0.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="unf (v0.1.4, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/unf-0.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="unf_ext (v0.0.7.1, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/unf_ext-0.0.7.1/ext" />
@@ -11273,6 +11326,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/unf_ext-0.0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/unf_ext-0.0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.2, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/unf_ext-0.0.7.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/unf_ext-0.0.7.2/lib" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v0.3.1, RVM: ruby-2.2.2) [gem]">
