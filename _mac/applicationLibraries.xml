@@ -3009,6 +3009,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-2.99.1/support" />
       </SOURCES>
     </library>
+    <library name="mime-types (v2.99.2, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-2.99.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-2.99.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-2.99.2/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-2.99.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-2.99.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-2.99.2/support" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mime-types-3.0/lib" />
@@ -4396,6 +4409,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rest-client-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rest-client-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rest-client (v2.0.0.rc2, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rest-client-2.0.0.rc2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rest-client-2.0.0.rc2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rest-client-2.0.0.rc2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rest-client-2.0.0.rc2/lib" />
       </SOURCES>
     </library>
     <library name="resync (v0.3.0, RVM: ruby-2.2.2) [gem]">
@@ -6902,6 +6926,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/xml-mapping_extensions-0e2d6861b18c/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-mapping_extensions (v0.4.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/xml-mapping_extensions-0.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/xml-mapping_extensions-0.4.1/lib" />
       </SOURCES>
     </library>
     <library name="xpath (v2.0.0, RVM: ruby-2.2.2) [gem]">
