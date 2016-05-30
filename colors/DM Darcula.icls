@@ -13,6 +13,9 @@
     <option name="CARET_ROW_COLOR" value="282828" />
   </colors>
   <attributes>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value />
+    </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
         <option name="FOREGROUND" value="707070" />
@@ -139,6 +142,9 @@
       </value>
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="LOG_EXPIRED_ENTRY">
+      <value />
+    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="808080" />
