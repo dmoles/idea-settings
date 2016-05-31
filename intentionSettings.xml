@@ -1,6 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Ruby/Append current directory to path" />
-    <ignoreAction name="Scala/Type/Convert to Java collection" />
+    <ignoreAction name="Java/Annotations/Edit method contract" />
   </component>
 </application>

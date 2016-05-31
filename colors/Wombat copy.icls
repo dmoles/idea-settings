@@ -66,6 +66,9 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value />
+    </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
