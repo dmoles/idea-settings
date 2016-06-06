@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/dmoles/Work/stash_engines/stash_datacite/app/models/stash_datacite/resource/resource_file_generation.rb'" />
-    <option name="defaultScopeName" value="File '/Users/dmoles/Work/stash_engines/stash_datacite/app/models/stash_datacite/resource/resource_file_generation.rb'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/dmoles/Work/stash_engines/stash_datacite/app/models/stash_datacite/resource/resource_file_generation.rb'" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
