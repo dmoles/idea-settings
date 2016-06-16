@@ -1,0 +1,8 @@
+<code_scheme name="Default (6)">
+  <ScalaCodeStyleSettings>
+    <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
+  </ScalaCodeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+  </codeStyleSettings>
+</code_scheme>
