@@ -2,9 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/dmoles/Projects/protocolizer/src/test/java/pz/app/actions/ProtocCommandTest.java'" />
     <option name="defaultScopeName" value="File '/Users/dmoles/Projects/protocolizer/src/test/java/pz/app/actions/ProtocCommandTest.java'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/dmoles/Projects/protocolizer/src/test/java/pz/app/actions/ProtocCommandTest.java'" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,8 +21,8 @@
       <mask>*.xml</mask>
       <mask>*.py</mask>
       <mask>*.xhtml</mask>
-      <mask>*.scala</mask>
       <mask>*.rb</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
