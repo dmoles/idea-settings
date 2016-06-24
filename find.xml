@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '/Users/dmoles/Projects/protocolizer/src/test/java/pz/app/actions/ProtocCommandTest.java'" />
     <option name="defaultScopeName" value="File '/Users/dmoles/Projects/protocolizer/src/test/java/pz/app/actions/ProtocCommandTest.java'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/dmoles/Projects/protocolizer/src/test/java/pz/app/actions/ProtocCommandTest.java'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,9 +20,9 @@
       <mask>*.xml</mask>
       <mask>*.py</mask>
       <mask>*.xhtml</mask>
-      <mask>*.rb</mask>
       <mask>*.scala</mask>
       <mask>*.java</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
