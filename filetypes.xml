@@ -9,6 +9,7 @@
       <mapping pattern="happybinder" type="PLAIN_TEXT" />
       <mapping pattern="res1" type="PLAIN_TEXT" />
       <mapping pattern="Convertible" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
