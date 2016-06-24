@@ -1990,6 +1990,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160310/tool" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20160615, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160615/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160615/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160615/tool" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160615/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160615/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160615/tool" />
+      </SOURCES>
+    </library>
     <library name="engine_cart (v0.7.1, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/engine_cart-0.7.1/lib" />
@@ -2704,6 +2717,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jquery-fileupload-rails-0.4.6/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jquery-fileupload-rails-0.4.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="jquery-fileupload-rails (v0.4.7, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jquery-fileupload-rails-0.4.7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jquery-fileupload-rails-0.4.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jquery-fileupload-rails-0.4.7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jquery-fileupload-rails-0.4.7/lib" />
       </SOURCES>
     </library>
     <library name="jquery-rails (v4.0.5, RVM: ruby-2.2.3) [gem]">
@@ -6055,6 +6079,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v3.6.2, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-3.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-3.6.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-3.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-3.6.2/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets-rails (v2.3.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-rails-2.3.2/lib" />
@@ -6405,6 +6440,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-sword-0.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-sword-0.1.0/notes" />
+      </SOURCES>
+    </library>
+    <library name="stash-sword (v0.1.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-sword-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-sword-0.1.1/notes" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-sword-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-sword-0.1.1/notes" />
       </SOURCES>
     </library>
     <library name="stash-wrapper (v0.0.1@6d3b7f, RVM: ruby-2.2.2) [gem]">
