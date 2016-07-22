@@ -12,6 +12,7 @@
       <mapping pattern="Convertible" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="atom" type="XML" />
     </extensionMap>
   </component>
 </application>
