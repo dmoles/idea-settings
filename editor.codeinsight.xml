@@ -5,4 +5,10 @@
     <EXCLUDED_PACKAGE NAME="scala.sys.process.processInternal" />
     <EXCLUDED_PACKAGE NAME="sun" />
   </component>
+  <component name="XmlFoldingSettings">
+    <option name="collapseEntities" value="false" />
+    <option name="collapseHtmlStyleAttribute" value="false" />
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+  </component>
 </application>
