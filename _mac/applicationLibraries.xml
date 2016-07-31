@@ -682,6 +682,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/astrolabe-1.3.1/benchmark" />
       </SOURCES>
     </library>
+    <library name="astrolabe (v1.3.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/astrolabe-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/astrolabe-1.3.1/benchmark" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/astrolabe-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/astrolabe-1.3.1/benchmark" />
+      </SOURCES>
+    </library>
     <library name="atom-tools (v2.0.5, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/atom-tools-2.0.5/bin" />
@@ -2748,6 +2759,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/github-markup-1.4.0/script" />
       </SOURCES>
     </library>
+    <library name="github-markup (v1.4.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markup-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markup-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markup-1.4.0/script" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markup-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markup-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markup-1.4.0/script" />
+      </SOURCES>
+    </library>
     <library name="given_core (v3.7.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/given_core-3.7.0/lib" />
@@ -4147,6 +4171,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/multi_json-1.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.11.2, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/multi_json-1.11.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/multi_json-1.11.2/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.12.0, RVM: ruby-2.2.2) [gem]">
@@ -5839,6 +5872,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-3.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.4.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-3.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.5.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-3.5.0/lib" />
@@ -5936,6 +5978,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-core-3.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.4.2, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-core-3.4.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-core-3.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-core-3.4.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-core-3.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.4.4, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-core-3.4.4/exe" />
@@ -6001,6 +6054,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-expectations-3.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.4.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-expectations-3.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-expectations-3.4.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-expectations (v3.5.0, RVM: ruby-2.2.3) [gem]">
@@ -6092,6 +6154,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-mocks-3.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.4.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-mocks-3.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-mocks-3.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.5.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-mocks-3.5.0/lib" />
@@ -6173,6 +6244,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-support-3.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-support (v3.4.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-support-3.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-support-3.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.5.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-support-3.5.0/lib" />
@@ -6252,6 +6332,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.32.1/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.32.1/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.32.1/relnotes" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.32.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/logo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/relnotes" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/logo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.32.1/relnotes" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.34.2, RVM: ruby-2.2.2) [gem]">
@@ -6439,6 +6538,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/ruby-progressbar-1.7.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.7.5, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ruby-progressbar-1.7.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ruby-progressbar-1.7.5/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.8.0, RVM: ruby-2.2.2) [gem]">
