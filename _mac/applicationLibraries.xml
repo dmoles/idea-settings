@@ -2289,6 +2289,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/datacite-mapping-0.1.12/lib" />
       </SOURCES>
     </library>
+    <library name="datacite-mapping (v0.1.12, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/datacite-mapping-0.1.12/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/datacite-mapping-0.1.12/lib" />
+      </SOURCES>
+    </library>
     <library name="datacite-mapping (v0.1.13, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/datacite-mapping-0.1.13/lib" />
@@ -9801,6 +9810,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/stash-wrapper-0.1.5/data" />
       </SOURCES>
     </library>
+    <library name="stash-wrapper (v0.1.5, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.5/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.5/data" />
+      </SOURCES>
+    </library>
     <library name="stash-wrapper (v0.1.7, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.7/lib" />
@@ -10800,6 +10820,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/xml-mapping_extensions-0.3.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-mapping_extensions (v0.3.5, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/xml-mapping_extensions-0.3.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/xml-mapping_extensions-0.3.5/lib" />
       </SOURCES>
     </library>
     <library name="xml-mapping_extensions (v0.3.6, RVM: ruby-2.2.2) [gem]">
