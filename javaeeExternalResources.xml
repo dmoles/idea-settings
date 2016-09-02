@@ -9,9 +9,5 @@
     <resource url="http://www.w3.org/2007/XMLSchema-versioning/XMLSchema-versioning.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/92d998d4_XMLSchema-versioning.xsd" />
     <resource url="http://www.w3.org/2009/01/xml.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/3164ccf8_xml.xsd" />
     <resource url="https://dash.cdlib.org/stash_wrapper/" location="$USER_HOME$/Work/Stash/stash-harvester/spec/data/wrapper/stash_wrapper.xsd" />
-    <ignored-resource url="http://arxiv.org/OAI/arXiv/" />
-    <ignored-resource url="http://dublincore.org/schemas/xmls/qdc/2008/02/11/qualifieddc.xsd" />
-    <ignored-resource url="http://purl.org/dc/elements/1.1/" />
-    <ignored-resource url="http://www.openarchives.org/OAI/2.0/" />
   </component>
 </application>
