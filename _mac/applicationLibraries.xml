@@ -1151,6 +1151,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/autoprefixer-rails-6.4.0.2/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v6.4.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/autoprefixer-rails-6.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/autoprefixer-rails-6.4.1/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/autoprefixer-rails-6.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/autoprefixer-rails-6.4.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.10, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bcrypt-3.1.10/ext" />
@@ -1281,6 +1292,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-5.18.0/solr" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-5.18.0/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-5.18.0/config" />
+      </SOURCES>
+    </library>
+    <library name="blacklight (v6.5.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/solr" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/solr" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/blacklight-6.5.0/config" />
       </SOURCES>
     </library>
     <library name="blacklight-marc (v5.10.0@7c60e4, RVM: ruby-2.2.2) [gem]">
@@ -2161,6 +2191,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/concurrent-ruby-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="config (v1.2.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/config-1.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/config-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="config-factory (v0.0.1, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/config-factory-0.0.1/lib" />
@@ -2612,6 +2651,15 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/debug_inspector-0.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="deep_merge (v1.1.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/deep_merge-1.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/deep_merge-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="delayed_job (v4.1.2, RVM: ruby-2.2.2) [gem]">
@@ -3633,6 +3681,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/font-awesome-rails-4.1.0.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/font-awesome-rails-4.1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="font-awesome-rails (v4.6.3.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/font-awesome-rails-4.6.3.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/font-awesome-rails-4.6.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/font-awesome-rails-4.6.3.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/font-awesome-rails-4.6.3.1/lib" />
       </SOURCES>
     </library>
     <library name="formatador (v0.2.5, RVM: ruby-2.2.2) [gem]">
@@ -5227,6 +5286,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-3.0/support" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types-data (v3.2016.0221, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mime-types-data-3.2016.0221/lib" />
@@ -5247,6 +5315,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-data-3.2016.0221/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-data-3.2016.0221/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-data-3.2016.0521/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-data-3.2016.0521/data" />
       </SOURCES>
     </library>
     <library name="mini_portile (v0.6.2, RVM: ruby-2.2.2) [gem]">
@@ -9203,6 +9282,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="solr_wrapper (v0.17.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/solr_wrapper-0.17.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/solr_wrapper-0.17.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/solr_wrapper-0.17.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/solr_wrapper-0.17.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sorcerer (v1.0.2, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sorcerer-1.0.2/lib" />
@@ -10437,6 +10527,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/turbolinks-source-5.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="twitter-typeahead-rails (v0.11.1.pre.corejavascript, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/twitter-typeahead-rails-0.11.1.pre.corejavascript/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/twitter-typeahead-rails-0.11.1.pre.corejavascript/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/twitter-typeahead-rails-0.11.1.pre.corejavascript/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/twitter-typeahead-rails-0.11.1.pre.corejavascript/vendor" />
       </SOURCES>
     </library>
     <library name="typesafe_enum (v0.1.1, RVM: ruby-2.2.2) [gem]">
