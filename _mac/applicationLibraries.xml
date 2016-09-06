@@ -2925,6 +2925,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160615/tool" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20160826, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160826/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160826/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160826/tool" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160826/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160826/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/domain_name-0.5.20160826/tool" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.24, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/domain_name-0.5.24/lib" />
@@ -7853,6 +7866,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-core-3.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.5.3, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-core-3.5.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-core-3.5.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-core-3.5.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rspec-core-3.5.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.0.4, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-expectations-3.0.4/lib" />
@@ -9445,6 +9469,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-rails-3.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.2.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-rails-3.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sprockets-rails-3.2.0/lib" />
       </SOURCES>
     </library>
     <library name="sqlite3 (v1.3.10, RVM: ruby-2.2.2) [gem]">
