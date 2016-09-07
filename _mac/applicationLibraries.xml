@@ -9010,6 +9010,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/scss-lint-0.38.0/config" />
       </SOURCES>
     </library>
+    <library name="scss_lint (v0.49.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/scss_lint-0.49.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/scss_lint-0.49.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/scss_lint-0.49.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/scss_lint-0.49.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/scss_lint-0.49.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/scss_lint-0.49.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/scss_lint-0.49.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/scss_lint-0.49.0/config" />
+      </SOURCES>
+    </library>
     <library name="sdoc (v0.4.1, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sdoc-0.4.1/bin" />
