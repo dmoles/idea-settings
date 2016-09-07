@@ -3785,6 +3785,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-0.12.1/vendor" />
       </SOURCES>
     </library>
+    <library name="geoblacklight (v1.1.2, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/solr" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/schema" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/solr" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/schema" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-1.1.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="geoblacklight-icons (v0.2.1, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/geoblacklight-icons-0.2.1/app" />
