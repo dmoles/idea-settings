@@ -4112,6 +4112,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/hashie-3.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v3.4.6, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/hashie-3.4.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/hashie-3.4.6/lib" />
+      </SOURCES>
+    </library>
     <library name="hesburgh-lib (v0.0.1@a22bae, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/hesburgh-lib-a22bae11b65f/lib" />
@@ -6410,6 +6419,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.1.4, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="passenger (v5.0.29, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.29/bin" />
@@ -7197,6 +7217,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.2.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.2.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v11.3.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.3.0/lib" />
       </SOURCES>
     </library>
     <library name="rake-compiler (v0.9.6, RVM: ruby-2.2.2) [gem]">
