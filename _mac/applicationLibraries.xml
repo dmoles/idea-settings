@@ -2546,6 +2546,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/datacite-mapping-0.1.9/lib" />
       </SOURCES>
     </library>
+    <library name="datacite-mapping (v0.2.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/datacite-mapping-0.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/datacite-mapping-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.1.4, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/debase-0.1.4/ext" />
@@ -4844,6 +4853,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jwt-1.5.4/lib" />
       </SOURCES>
     </library>
+    <library name="jwt (v1.5.6, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jwt-1.5.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jwt-1.5.6/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari (v0.16.3, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/kaminari-0.16.3/app" />
@@ -5539,6 +5557,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/minitest-5.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.9.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/minitest-5.9.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/minitest-5.9.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.11.0, RVM: ruby-2.2.2) [gem]">
@@ -8639,6 +8666,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.42.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.42.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.42.0/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.43.0, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.43.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.43.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.43.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.43.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.43.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.43.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.43.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubocop-0.43.0/config" />
       </SOURCES>
     </library>
     <library name="rubocop-rspec (v1.3.1, RVM: ruby-2.2.2) [gem]">
