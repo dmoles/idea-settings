@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Ruby/Append current directory to path" />
     <ignoreAction name="Java/Annotations/Edit method contract" />
+    <ignoreAction name="Scala/Expressions/Convert from infix expression" />
   </component>
 </application>
