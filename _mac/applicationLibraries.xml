@@ -3809,6 +3809,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/formatador-0.2.5/tests" />
       </SOURCES>
     </library>
+    <library name="fuzzy-string-match (v0.9.7, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/fuzzy-string-match-0.9.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/fuzzy-string-match-0.9.7/lib" />
+      </SOURCES>
+    </library>
     <library name="gem-wrappers (v1.2.7, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/gem-wrappers-1.2.7/ext" />
@@ -9028,6 +9037,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rubygems-update-2.6.7/hide_lib_for_update" />
       </SOURCES>
     </library>
+    <library name="RubyInline (v3.12.4, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/RubyInline-3.12.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/RubyInline-3.12.4/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/RubyInline-3.12.4/tutorial" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/RubyInline-3.12.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/RubyInline-3.12.4/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/RubyInline-3.12.4/tutorial" />
+      </SOURCES>
+    </library>
     <library name="rubyzip (v1.1.7, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib" />
@@ -11656,6 +11678,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/yui-compressor-0.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ZenTest (v4.11.1, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ZenTest-4.11.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ZenTest-4.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ZenTest-4.11.1/articles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ZenTest-4.11.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ZenTest-4.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ZenTest-4.11.1/articles" />
       </SOURCES>
     </library>
   </component>
