@@ -1223,6 +1223,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/crass-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="crass (v1.0.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/crass-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/crass-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="daemons (v1.2.4, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/daemons-1.2.4/lib" />
@@ -1905,6 +1914,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ffi-1.9.14/libtest" />
       </SOURCES>
     </library>
+    <library name="ffi (v1.9.14, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/libtest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.14/libtest" />
+      </SOURCES>
+    </library>
     <library name="filesize (v0.1.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/filesize-0.1.1/lib" />
@@ -2022,6 +2046,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/gemoji-2.1.0/images" />
       </SOURCES>
     </library>
+    <library name="gemoji (v2.1.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gemoji-2.1.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gemoji-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gemoji-2.1.0/images" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gemoji-2.1.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gemoji-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gemoji-2.1.0/images" />
+      </SOURCES>
+    </library>
     <library name="geoblacklight (v0.12.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/geoblacklight-0.12.1/app" />
@@ -2127,6 +2164,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markdown-0.6.8/lib" />
       </SOURCES>
     </library>
+    <library name="github-markdown (v0.6.8, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-0.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-0.6.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-0.6.8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-0.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-0.6.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-0.6.8/lib" />
+      </SOURCES>
+    </library>
     <library name="github-markdown-preview (v4.0.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markdown-preview-4.0.1/bin" />
@@ -2138,6 +2188,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markdown-preview-4.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markdown-preview-4.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/github-markdown-preview-4.0.1/data" />
+      </SOURCES>
+    </library>
+    <library name="github-markdown-preview (v4.0.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-preview-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-preview-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-preview-4.0.2/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-preview-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-preview-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-preview-4.0.2/data" />
       </SOURCES>
     </library>
     <library name="github-markup (v1.4.0, RVM: ruby-2.2.3) [gem]">
@@ -2258,6 +2321,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/html-pipeline-2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/html-pipeline-2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/html-pipeline-2.0/script" />
+      </SOURCES>
+    </library>
+    <library name="html-pipeline (v2.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/html-pipeline-2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/html-pipeline-2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/html-pipeline-2.0/script" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/html-pipeline-2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/html-pipeline-2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/html-pipeline-2.0/script" />
       </SOURCES>
     </library>
     <library name="http-cookie (v1.0.2, RVM: ruby-2.2.3) [gem]">
@@ -2775,6 +2851,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/listen-3.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="listen (v3.0.3, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/listen-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/listen-3.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/listen-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/listen-3.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/loofah-2.0.3/lib" />
@@ -2907,6 +2994,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mini_portile-0.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile (v0.6.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mini_portile-0.6.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mini_portile-0.6.2/lib" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.0.0, RVM: ruby-2.2.3) [gem]">
@@ -3225,6 +3321,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.5/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.6.5, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.5/suppressions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.5/suppressions" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.6.6.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogiri-1.6.6.2/bin" />
@@ -3387,6 +3500,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogumbo-1.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogumbo-1.4.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/nokogumbo-1.4.1/gumbo-parser" />
+      </SOURCES>
+    </library>
+    <library name="nokogumbo (v1.4.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogumbo-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogumbo-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogumbo-1.4.1/gumbo-parser" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogumbo-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogumbo-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogumbo-1.4.1/gumbo-parser" />
       </SOURCES>
     </library>
     <library name="oai (v0.4.0, RVM: ruby-2.2.3) [gem]">
@@ -4095,6 +4221,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rb-fsevent-0.9.8/lib" />
       </SOURCES>
     </library>
+    <library name="rb-fsevent (v0.9.8, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-fsevent-0.9.8/lib" />
+      </SOURCES>
+    </library>
     <library name="rb-inotify (v0.9.7, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rb-inotify-0.9.7/lib" />
@@ -4102,6 +4241,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rb-inotify-0.9.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.7, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-inotify-0.9.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rb-inotify-0.9.7/lib" />
       </SOURCES>
     </library>
     <library name="rdoc (v4.2.2, RVM: ruby-2.2.3) [gem]">
@@ -5043,6 +5191,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/sanitize-4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sanitize (v4.0.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sanitize-4.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sanitize-4.0.0/lib" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.22, RVM: ruby-2.2.3) [gem]">
