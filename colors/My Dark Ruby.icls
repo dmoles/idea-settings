@@ -1,10 +1,16 @@
 <scheme name="My Dark Ruby" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Hasklig" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_NAME" value="Hasklig" />
   <colors>
     <option name="CARET_ROW_COLOR" value="141414" />
     <option name="INDENT_GUIDE" value="202020" />
@@ -43,7 +49,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4d4d4d" />
+        <option name="FOREGROUND" value="526652" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -68,7 +74,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="28997b" />
+        <option name="FOREGROUND" value="24b38f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -83,9 +89,14 @@
         <option name="FOREGROUND" value="ffff80" />
       </value>
     </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6ea6" />
+      </value>
+    </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="408040" />
+        <option name="FOREGROUND" value="4285a6" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -106,7 +117,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="408040" />
+        <option name="FOREGROUND" value="269960" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -150,9 +161,7 @@
     <option name="Implicit conversion first part" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Implicit conversion second part" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JAVA_COMMA" baseAttributes="DEFAULT_COMMA" />
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_SEMICOLON" baseAttributes="DEFAULT_SEMICOLON" />
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
@@ -193,12 +202,19 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="RUBY_INTERPOLATED_STRING">
+      <value>
+        <option name="FOREGROUND" value="269960" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="RUBY_LINE_CONTINUATION">
       <value>
         <option name="FOREGROUND" value="8c9ebf" />
         <option name="BACKGROUND" value="132613" />
       </value>
     </option>
+    <option name="RUBY_OPERATION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="RUBY_PARAMETER_ID">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -211,7 +227,6 @@
     </option>
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="Scala Immutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Scala Mutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
