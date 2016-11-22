@@ -644,11 +644,13 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -3954,6 +3956,7 @@
     </library>
     <library name="passenger (v5.0.30, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/passenger/5.0.30" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.0.30/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.0.30/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.0.30/man" />
@@ -3964,6 +3967,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/passenger/5.0.30" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.0.30/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.0.30/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.0.30/man" />
