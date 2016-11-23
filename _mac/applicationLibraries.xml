@@ -3883,6 +3883,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/debase-0.2.2.beta8/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta9, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/debase-0.2.2.beta9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/debase-0.2.2.beta9/lib" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.7.10, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/debase-ruby_core_source-0.7.10/lib" />
@@ -8054,6 +8065,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-2.99.1/support" />
       </SOURCES>
     </library>
+    <library name="mime-types (v2.99.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mime-types-2.99.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mime-types-2.99.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mime-types-2.99.1/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mime-types-2.99.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mime-types-2.99.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mime-types-2.99.1/support" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v2.99.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-2.99.2/lib" />
@@ -9133,6 +9157,7 @@
     </library>
     <library name="nokogiri (v1.6.7.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.7.2/lib" />
@@ -9143,6 +9168,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.7.2/lib" />
@@ -9726,6 +9752,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.3.0.6, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parser-2.3.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parser-2.3.0.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parser-2.3.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parser-2.3.0.6/lib" />
       </SOURCES>
     </library>
     <library name="parser (v2.3.0.7, RVM: ruby-2.2.3) [gem]">
@@ -13208,6 +13245,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.29.1/relnotes" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.29.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/logo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/relnotes" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/logo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubocop-0.29.1/relnotes" />
+      </SOURCES>
+    </library>
     <library name="rubocop (v0.31.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rubocop-0.31.0/bin" />
@@ -13652,6 +13708,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-debug-ide-0.6.1.beta2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-debug-ide-0.6.1.beta2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta3, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-debug-ide-0.6.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-debug-ide-0.6.1.beta3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-debug-ide-0.6.1.beta3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-debug-ide-0.6.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-debug-ide-0.6.1.beta3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-debug-ide-0.6.1.beta3/lib" />
       </SOURCES>
     </library>
     <library name="ruby-enum (v0.4.0, RVM: ruby-2.0.0-p643) [gem]">
@@ -16814,6 +16883,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/typesafe_enum-0.1.6/lib" />
       </SOURCES>
     </library>
+    <library name="typesafe_enum (v0.1.6, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/typesafe_enum-0.1.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/typesafe_enum-0.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="typesafe_enum (v0.1.7, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/typesafe_enum-0.1.7/lib" />
@@ -17558,6 +17636,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/xml-mapping_extensions-0.3.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-mapping_extensions (v0.3.5, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/xml-mapping_extensions-0.3.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/xml-mapping_extensions-0.3.5/lib" />
       </SOURCES>
     </library>
     <library name="xml-mapping_extensions (v0.3.6, RVM: ruby-2.2.2) [gem]">
