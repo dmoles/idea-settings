@@ -2798,6 +2798,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-2.10.1/.yard" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.10.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-2.10.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-2.10.2/.yard" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-2.10.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-2.10.2/.yard" />
+      </SOURCES>
+    </library>
     <library name="capybara (v2.3.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/capybara-2.3.0/lib" />
@@ -3505,6 +3516,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/data_magic-0.22/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/data_magic-0.22/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/data_magic-0.22/features" />
+      </SOURCES>
+    </library>
+    <library name="data_magic (v1.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/data_magic-1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/data_magic-1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/data_magic-1.0/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/data_magic-1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/data_magic-1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/data_magic-1.0/features" />
       </SOURCES>
     </library>
     <library name="database_cleaner (v1.4.1, RVM: ruby-2.2.2) [gem]">
@@ -4968,6 +4992,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/faker-1.6.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.10.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/faraday-0.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/faraday-0.10.0/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.9.1, RVM: ruby-2.2.2) [gem]">
@@ -9682,6 +9715,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/page-object-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="page-object (v2.0.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/page-object-2.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/page-object-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="page_navigation (v0.10, RVM: ruby-2.2.5) [gem]">
@@ -14636,6 +14678,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/selenium-webdriver-3.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v3.0.3, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/selenium-webdriver-3.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/selenium-webdriver-3.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="sexp_processor (v4.5.1, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sexp_processor-4.5.1/lib" />
@@ -17495,6 +17546,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/warden-1.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="watir (v6.0.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/watir-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/watir-6.0.2/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/watir-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/watir-6.0.2/support" />
       </SOURCES>
     </library>
     <library name="watir-webdriver (v0.9.3, RVM: ruby-2.2.5) [gem]">
