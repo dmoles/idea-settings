@@ -214,6 +214,11 @@
         <option name="BACKGROUND" value="132613" />
       </value>
     </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="da00d2" />
+      </value>
+    </option>
     <option name="RUBY_OPERATION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="RUBY_PARAMETER_ID">
       <value>
