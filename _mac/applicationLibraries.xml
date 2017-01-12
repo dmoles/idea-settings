@@ -3954,6 +3954,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/datacite-mapping-0.2.4/lib" />
       </SOURCES>
     </library>
+    <library name="datacite-mapping (v0.2.5, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/datacite-mapping-0.2.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/datacite-mapping-0.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.1.4, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/debase-0.1.4/ext" />
@@ -7916,6 +7925,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/leaflet-rails-0.7.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/leaflet-rails-0.7.7/vendor" />
+      </SOURCES>
+    </library>
+    <library name="leaflet-rails (v1.0.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/leaflet-rails-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/leaflet-rails-1.0.2/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/leaflet-rails-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/leaflet-rails-1.0.2/vendor" />
       </SOURCES>
     </library>
     <library name="letter_opener (v1.3.0, RVM: ruby-2.2.2) [gem]">
