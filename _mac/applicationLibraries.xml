@@ -15801,6 +15801,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/whenever-0.9.4/lib" />
       </SOURCES>
     </library>
+    <library name="wicked_pdf (v1.1.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/wicked_pdf-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/wicked_pdf-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/wicked_pdf-1.1.0/generators" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/wicked_pdf-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/wicked_pdf-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/wicked_pdf-1.1.0/generators" />
+      </SOURCES>
+    </library>
     <library name="xml-mapping (v0.10.0, RVM: ruby-2.0.0-p643) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p643/gems/xml-mapping-0.10.0/lib" />
