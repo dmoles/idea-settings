@@ -7016,6 +7016,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/leaflet-rails-0.7.7/vendor" />
       </SOURCES>
     </library>
+    <library name="leaflet-rails (v1.0.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/leaflet-rails-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/leaflet-rails-1.0.2/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/leaflet-rails-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/leaflet-rails-1.0.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="letter_opener (v1.3.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/letter_opener-1.3.0/lib" />
@@ -8415,6 +8426,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.8.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.8.1/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.8.1/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.7.0.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.7.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/suppressions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.7.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogumbo (v1.4.1, RVM: ruby-2.2.2) [gem]">
@@ -9821,6 +9853,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rails-dom-testing-1.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v1.0.8, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rails-dom-testing-1.0.8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rails-dom-testing-1.0.8/lib" />
       </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.0.2, RVM: ruby-2.0.0-p643) [gem]">
@@ -15812,6 +15853,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/wicked_pdf-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/wicked_pdf-1.1.0/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/wicked_pdf-1.1.0/generators" />
+      </SOURCES>
+    </library>
+    <library name="wkhtmltopdf-binary (v0.12.3.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/wkhtmltopdf-binary-0.12.3.1/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/wkhtmltopdf-binary-0.12.3.1/bin" />
       </SOURCES>
     </library>
     <library name="xml-mapping (v0.10.0, RVM: ruby-2.0.0-p643) [gem]">
