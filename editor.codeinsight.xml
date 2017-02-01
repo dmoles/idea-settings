@@ -5,8 +5,10 @@
     <EXCLUDED_PACKAGE NAME="scala.sys.process.processInternal" />
     <EXCLUDED_PACKAGE NAME="sun" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
   <component name="XmlFoldingSettings">
-    <option name="collapseHtmlStyleAttribute" value="false" />
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
 </application>
