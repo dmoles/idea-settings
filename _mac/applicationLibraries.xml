@@ -2073,6 +2073,7 @@
     </library>
     <library name="json (v1.8.6, ruby-2.2.5-p319) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-1.8.6/data" />
@@ -2083,6 +2084,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-1.8.6/data" />
@@ -2694,6 +2696,7 @@
     </library>
     <library name="nokogiri (v1.7.0.1, ruby-2.2.5-p319) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.7.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/lib" />
@@ -2704,6 +2707,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.7.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.7.0.1/lib" />
@@ -3941,6 +3945,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubyzip-1.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubyzip-1.2.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.1, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubyzip-1.2.1/samples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rubyzip-1.2.1/samples" />
       </SOURCES>
     </library>
     <library name="rvm (v1.11.3.9, ruby-2.2.5-p319) [gem]">
