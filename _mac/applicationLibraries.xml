@@ -2889,6 +2889,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/page_navigation-0.10/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.10.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parallel-1.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parallel-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parallel_tests (v1.6.2, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parallel_tests-1.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parallel_tests-1.6.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parallel_tests-1.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parallel_tests-1.6.2/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.3.0.2, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parser-2.3.0.2/bin" />
@@ -4104,6 +4124,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sass-rails-5.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="sauce_whisk (v0.0.12, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sauce_whisk-0.0.12/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sauce_whisk-0.0.12/lib" />
+      </SOURCES>
+    </library>
     <library name="scss_lint (v0.49.0, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/scss_lint-0.49.0/bin" />
@@ -4514,6 +4543,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-sword-cacb23faac2d/lib" />
+      </SOURCES>
+    </library>
+    <library name="stash-sword (v0.1.6, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/stash-sword-0.1.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/stash-sword-0.1.6/lib" />
       </SOURCES>
     </library>
     <library name="stash-wrapper (v0.1.11.1, ruby-2.2.5-p319) [gem]">
