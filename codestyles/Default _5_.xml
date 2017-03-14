@@ -1,4 +1,7 @@
 <code_scheme name="Default (5)">
+  <ScalaCodeStyleSettings>
+    <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
+  </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -15,5 +18,9 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
   </codeStyleSettings>
 </code_scheme>
