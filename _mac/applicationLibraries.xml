@@ -10076,6 +10076,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-c88d56882724/lib" />
       </SOURCES>
     </library>
+    <library name="stash-merritt (v0.2.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/stash-merritt-0.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/stash-merritt-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="stash-merritt (v0.2.0@6ff96e, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-6ff96ec3a668/lib" />
