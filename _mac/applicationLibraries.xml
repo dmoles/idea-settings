@@ -1348,6 +1348,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.5/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.14.6, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.14.6, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.14.6/bin" />
@@ -10052,6 +10067,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-67c9fbb02d52/lib" />
       </SOURCES>
     </library>
+    <library name="stash-merritt (v0.1.1@c88d56, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-c88d56882724/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-c88d56882724/lib" />
+      </SOURCES>
+    </library>
     <library name="stash-merritt (v0.2.0@6ff96e, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-6ff96ec3a668/lib" />
@@ -10059,6 +10083,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-6ff96ec3a668/lib" />
+      </SOURCES>
+    </library>
+    <library name="stash-merritt (v0.2.0@aa3ad4, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-aa3ad4413082/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-aa3ad4413082/lib" />
+      </SOURCES>
+    </library>
+    <library name="stash-merritt (v0.2.0@fcf918, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-fcf918000778/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-fcf918000778/lib" />
       </SOURCES>
     </library>
     <library name="stash-merritt (v0.2.0@fe633a, ruby-2.2.5-p319) [gem]">
