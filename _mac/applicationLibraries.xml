@@ -6947,6 +6947,7 @@
     </library>
     <library name="passenger (v5.1.2, ruby-2.2.5-p319) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/passenger/5.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.1.2/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.1.2/man" />
@@ -6957,6 +6958,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/passenger/5.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.1.2/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/passenger-5.1.2/man" />
@@ -10972,11 +10974,13 @@
     </library>
     <library name="therubyracer (v0.12.3, ruby-2.2.5-p319) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/therubyracer-0.12.3/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/therubyracer-0.12.3/lib" />
       </SOURCES>
