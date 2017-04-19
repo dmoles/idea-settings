@@ -1056,6 +1056,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/autoprefixer-rails-6.7.7.1/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v6.7.7.2, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/autoprefixer-rails-6.7.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/autoprefixer-rails-6.7.7.2/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/autoprefixer-rails-6.7.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/autoprefixer-rails-6.7.7.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.11, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.11" />
@@ -3850,6 +3861,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/globalid-0.3.7/lib" />
       </SOURCES>
     </library>
+    <library name="globalid (v0.4.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/globalid-0.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/globalid-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="hashdiff (v0.3.0, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hashdiff-0.3.0/lib" />
@@ -5188,6 +5208,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/references" />
       </SOURCES>
     </library>
+    <library name="json (v2.1.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/2.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/references" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/2.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/references" />
+      </SOURCES>
+    </library>
     <library name="jwt (v1.5.4, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/jwt-1.5.4/lib" />
@@ -5584,6 +5629,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/merritt-manifest-0.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/merritt-manifest-0.1.0/.idea" />
+      </SOURCES>
+    </library>
+    <library name="merritt-manifest (v0.1.1, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/merritt-manifest-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/merritt-manifest-0.1.1/.idea" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/merritt-manifest-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/merritt-manifest-0.1.1/.idea" />
       </SOURCES>
     </library>
     <library name="method_source (v0.8.1, ruby-2.2.5-p319) [gem]">
@@ -11432,6 +11488,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/unf_ext-0.0.7.3/lib" />
       </SOURCES>
     </library>
+    <library name="unf_ext (v0.0.7.4, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/unf_ext-0.0.7.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/unf_ext-0.0.7.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/unf_ext-0.0.7.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/unf_ext-0.0.7.4/lib" />
+      </SOURCES>
+    </library>
     <library name="unicode-display_width (v1.0.3, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/unicode-display_width-1.0.3/lib" />
@@ -11896,6 +11963,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/xml-mapping_extensions-0.4.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-mapping_extensions (v0.4.8, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/xml-mapping_extensions-0.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/xml-mapping_extensions-0.4.8/.idea" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/xml-mapping_extensions-0.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/xml-mapping_extensions-0.4.8/.idea" />
       </SOURCES>
     </library>
     <library name="xmlrpc (v0.2.1, RVM: ruby-2.4.1 [global]) [gem]">
