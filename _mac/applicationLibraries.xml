@@ -712,6 +712,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/airbrussh-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="airbrussh (v1.2.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/airbrussh-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/airbrussh-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/airbrussh-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/airbrussh-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="amoeba (v3.0.0, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/amoeba-3.0.0/lib" />
@@ -1586,6 +1597,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-3.6.1/features" />
       </SOURCES>
     </library>
+    <library name="capistrano (v3.8.1, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capistrano-3.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capistrano-3.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capistrano-3.8.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capistrano-3.8.1/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capistrano-3.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capistrano-3.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capistrano-3.8.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capistrano-3.8.1/features" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-bundler (v1.1.4, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capistrano-bundler-1.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capistrano-bundler-1.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-bundler (v1.1.4, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/capistrano-bundler-1.1.4/lib" />
@@ -1838,6 +1873,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/chromedriver-helper-1.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/chromedriver-helper-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/chromedriver-helper-1.1.0/concourse" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/chronic-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="chronic (v0.10.2, RVM: ruby-2.2.3) [gem]">
@@ -5679,6 +5723,15 @@
       </SOURCES>
     </library>
     <library name="method_source (v0.8.1, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.8.2, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/method_source-0.8.2/lib" />
       </CLASSES>
@@ -10515,6 +10568,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-1fde1dc1e833/lib" />
       </SOURCES>
     </library>
+    <library name="stash-harvester (v0.0.1@2f7f1e, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-harvester/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-harvester/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-harvester/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-harvester/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-harvester/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-harvester/lib" />
+      </SOURCES>
+    </library>
     <library name="stash-harvester (v0.0.1@32b831, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/stash-harvester-32b8319d0507/db" />
@@ -10639,6 +10705,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/stash-merritt-0.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="stash-merritt (v0.2.0@2f7f1e, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-merritt/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-merritt/lib" />
+      </SOURCES>
+    </library>
     <library name="stash-merritt (v0.2.0@6ff96e, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-merritt-6ff96ec3a668/lib" />
@@ -10731,6 +10806,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-sword-cacb23faac2d/lib" />
       </SOURCES>
     </library>
+    <library name="stash-sword (v0.1.6@2f7f1e, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-sword/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-sword/lib" />
+      </SOURCES>
+    </library>
     <library name="stash-wrapper (v0.1.10, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.10/lib" />
@@ -10775,6 +10859,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.11.1/data" />
       </SOURCES>
     </library>
+    <library name="stash-wrapper (v0.1.11.1@2f7f1e, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-wrapper/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash-wrapper/lib" />
+      </SOURCES>
+    </library>
     <library name="stash-wrapper (v0.1.5, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.5/lib" />
@@ -10784,6 +10877,23 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/stash-wrapper-0.1.5/data" />
+      </SOURCES>
+    </library>
+    <library name="stash_datacite (v0.0.5@2f7f1e, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_datacite/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_datacite/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_datacite/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_datacite/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_datacite/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_datacite/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_datacite/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_datacite/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_datacite/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_datacite/config" />
       </SOURCES>
     </library>
     <library name="stash_discovery (v0.0.2@1f46e9, ruby-2.2.5-p319) [gem]">
@@ -10801,6 +10911,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash_discovery-1f46e9ff61f1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash_discovery-1f46e9ff61f1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash_discovery-1f46e9ff61f1/config" />
+      </SOURCES>
+    </library>
+    <library name="stash_discovery (v0.0.2@2f7f1e, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_discovery/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_discovery/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_discovery/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_discovery/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_discovery/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_discovery/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_discovery/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_discovery/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_discovery/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_discovery/config" />
       </SOURCES>
     </library>
     <library name="stash_discovery (v0.0.2@4bfb77, ruby-2.2.5-p319) [gem]">
@@ -10841,6 +10968,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash_engine-264c817cc49a/public" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash_engine-264c817cc49a/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash_engine-264c817cc49a/ui-library" />
+      </SOURCES>
+    </library>
+    <library name="stash_engine (v0.0.17@2f7f1e, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/ui-library" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/stash-2f7f1e713260/stash_engine/ui-library" />
       </SOURCES>
     </library>
     <library name="stash_engine (v0.0.17@b5435c, ruby-2.2.5-p319) [gem]">
@@ -11860,6 +12010,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/websocket-extensions-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="whenever (v0.9.7, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/whenever-0.9.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/whenever-0.9.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/whenever-0.9.7/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/whenever-0.9.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/whenever-0.9.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/whenever-0.9.7/gemfiles" />
       </SOURCES>
     </library>
     <library name="whenever (v0.9.7, RVM: ruby-2.2.3) [gem]">
