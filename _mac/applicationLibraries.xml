@@ -7773,6 +7773,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rainbow-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="rainbow (v2.2.2, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rainbow-2.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rainbow-2.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rainbow-2.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rainbow-2.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.5.0, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-10.5.0/bin" />
@@ -8167,6 +8178,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-0.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="resync (v0.4.5, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resync-0.4.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resync-0.4.5/notes" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resync-0.4.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resync-0.4.5/notes" />
+      </SOURCES>
+    </library>
     <library name="resync-client (v0.4.5, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resync-client-0.4.5/lib" />
@@ -8183,6 +8205,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/resync-client-0.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="resync-client (v0.4.6, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resync-client-0.4.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resync-client-0.4.6/lib" />
       </SOURCES>
     </library>
     <library name="rsolr (v1.0.13, RVM: ruby-2.2.3) [gem]">
@@ -10414,6 +10445,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/standalone_migrations-4.0.5/example" />
       </SOURCES>
     </library>
+    <library name="standalone_migrations (v5.0.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/standalone_migrations-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/standalone_migrations-5.0.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/standalone_migrations-5.0.0/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/standalone_migrations-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/standalone_migrations-5.0.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/standalone_migrations-5.0.0/example" />
+      </SOURCES>
+    </library>
     <library name="standalone_migrations (v5.0.0@f1cbfc, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/standalone-migrations-f1cbfc924c86/lib" />
@@ -12089,6 +12133,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/yard-0.9.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/yard-0.9.8/templates" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/yard-0.9.8/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="yard (v0.9.9, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/yard-0.9.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/yard-0.9.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/yard-0.9.9/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/yard-0.9.9/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/yard-0.9.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/yard-0.9.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/yard-0.9.9/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/yard-0.9.9/benchmarks" />
       </SOURCES>
     </library>
     <library name="yml_reader (v0.7, ruby-2.2.5-p319) [gem]">
