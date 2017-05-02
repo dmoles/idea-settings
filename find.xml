@@ -3,17 +3,16 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*em*" />
     <recentFileMasks>
-      <mask>r</mask>
-      <mask>*(rb</mask>
-      <mask>*(r</mask>
       <mask>*(</mask>
       <mask>*r</mask>
       <mask>*g</mask>
@@ -38,9 +37,12 @@
       <mask>Gem</mask>
       <mask>Gemfi</mask>
       <mask>Gemfile</mask>
-      <mask>*</mask>
       <mask>*rb</mask>
       <mask>*.rb</mask>
+      <mask>*</mask>
+      <mask>*e</mask>
+      <mask>*em</mask>
+      <mask>*em*</mask>
     </recentFileMasks>
   </component>
 </application>
