@@ -12115,6 +12115,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/webmock-2.1.0/minitest" />
       </SOURCES>
     </library>
+    <library name="webmock (v3.0.1, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webmock-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webmock-3.0.1/minitest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webmock-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webmock-3.0.1/minitest" />
+      </SOURCES>
+    </library>
     <library name="websocket (v1.2.3, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/websocket-1.2.3/lib" />
