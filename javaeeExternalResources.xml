@@ -4,10 +4,11 @@
     <resource url="http://dash.cdlib.org/stash_wrapper/stash_wrapper.xsd" location="$USER_HOME$/Work/Stash/stash-wrapper/spec/data/wrapper/stash_wrapper.xsd" />
     <resource url="http://datacite.org/schema/kernel-3" location="$USER_HOME$/Work/Stash/stash-wrapper/spec/data/metadata.xsd" />
     <resource url="http://schema.datacite.org/meta/kernel-3/metadata.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/b583a9c9_metadata.xsd" />
+    <resource url="http://schema.datacite.org/meta/kernel-4/metadata.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/97617368_metadata.xsd" />
     <resource url="http://www.openarchives.org/rs/terms/" location="$USER_HOME$/Work/Stash/resync/spec/data/resourcesync.xsd" />
     <resource url="http://www.sitemaps.org/schemas/sitemap/0.9" location="$USER_HOME$/Work/Stash/resync/spec/data/sitemap.xsd" />
     <resource url="http://www.w3.org/2007/XMLSchema-versioning/XMLSchema-versioning.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/92d998d4_XMLSchema-versioning.xsd" />
-    <resource url="http://www.w3.org/2009/01/xml.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/3164ccf8_xml.xsd" />
+    <resource url="http://www.w3.org/2009/01/xml.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/3164ccf8_xml.xsd" />
     <resource url="https://dash.cdlib.org/stash_wrapper/" location="$USER_HOME$/Work/Stash/stash-harvester/spec/data/wrapper/stash_wrapper.xsd" />
   </component>
 </application>
