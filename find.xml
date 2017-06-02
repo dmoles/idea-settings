@@ -3,15 +3,12 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localRegularExpressions" value="true" />
-    <option name="preserveCase" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
-      <mask>*ge</mask>
-      <mask>*gem</mask>
       <mask>*gems</mask>
       <mask>*gemsp</mask>
       <mask>*gemspec</mask>
@@ -40,6 +37,8 @@
       <mask>*.r</mask>
       <mask>*.rb</mask>
       <mask>*.erb</mask>
+      <mask>*.s</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
