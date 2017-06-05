@@ -7,25 +7,18 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.sh" />
+    <option name="FILE_MASK" value="*gemspec" />
     <recentFileMasks>
       <mask>*gems</mask>
       <mask>*gemsp</mask>
-      <mask>*gemspec</mask>
       <mask>*y</mask>
       <mask>*yml</mask>
-      <mask>Ge</mask>
       <mask>Gemfile.lock</mask>
       <mask>Gemfile.loc</mask>
       <mask>Gemfile.lo</mask>
       <mask>Gemfile.l</mask>
       <mask>Gemfile.</mask>
-      <mask>g</mask>
-      <mask>gem</mask>
-      <mask>gemspec</mask>
       <mask>gemspe</mask>
-      <mask>G</mask>
-      <mask>Gem</mask>
       <mask>Gemfi</mask>
       <mask>Gemfile</mask>
       <mask>*rb</mask>
@@ -39,6 +32,13 @@
       <mask>*.erb</mask>
       <mask>*.s</mask>
       <mask>*.sh</mask>
+      <mask>Gem</mask>
+      <mask>Ge</mask>
+      <mask>G</mask>
+      <mask>g</mask>
+      <mask>gem</mask>
+      <mask>gemspec</mask>
+      <mask>*gemspec</mask>
     </recentFileMasks>
   </component>
 </application>
