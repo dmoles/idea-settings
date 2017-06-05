@@ -4725,6 +4725,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resync-client-0.4.6/lib" />
       </SOURCES>
     </library>
+    <library name="retriable (v3.0.2, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/retriable-3.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/retriable-3.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rsolr (v1.1.2, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rsolr-1.1.2/lib" />
@@ -5653,6 +5662,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/solr_wrapper-1.0.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/solr_wrapper-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="solr_wrapper (v1.1.0, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/solr_wrapper-1.1.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/solr_wrapper-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/solr_wrapper-1.1.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/solr_wrapper-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="spring (v2.0.0, ruby-2.2.5-p319) [gem]">

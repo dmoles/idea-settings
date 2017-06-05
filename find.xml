@@ -3,28 +3,14 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*gemspec" />
+    <option name="FILE_MASK" value=".rubocop.yml" />
     <recentFileMasks>
-      <mask>*gems</mask>
-      <mask>*gemsp</mask>
-      <mask>*y</mask>
-      <mask>*yml</mask>
-      <mask>Gemfile.lock</mask>
-      <mask>Gemfile.loc</mask>
-      <mask>Gemfile.lo</mask>
-      <mask>Gemfile.l</mask>
-      <mask>Gemfile.</mask>
-      <mask>gemspe</mask>
-      <mask>Gemfi</mask>
-      <mask>Gemfile</mask>
-      <mask>*rb</mask>
-      <mask>*e</mask>
-      <mask>*em</mask>
-      <mask>*em*</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.r</mask>
@@ -33,12 +19,28 @@
       <mask>*.s</mask>
       <mask>*.sh</mask>
       <mask>Gem</mask>
-      <mask>Ge</mask>
-      <mask>G</mask>
       <mask>g</mask>
       <mask>gem</mask>
       <mask>gemspec</mask>
       <mask>*gemspec</mask>
+      <mask>G</mask>
+      <mask>Ge</mask>
+      <mask>Gemfi</mask>
+      <mask>Gemfile</mask>
+      <mask>./ru</mask>
+      <mask>./r</mask>
+      <mask>./</mask>
+      <mask>.</mask>
+      <mask>.ru</mask>
+      <mask>.rubio</mask>
+      <mask>.rubi</mask>
+      <mask>.rub</mask>
+      <mask>.rubo</mask>
+      <mask>.ruboco</mask>
+      <mask>.rubocop</mask>
+      <mask>.rubocop.</mask>
+      <mask>.rubocop.y</mask>
+      <mask>.rubocop.yml</mask>
     </recentFileMasks>
   </component>
 </application>
