@@ -11,12 +11,8 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="Rakefile" />
     <recentFileMasks>
-      <mask>*.</mask>
-      <mask>*.erb</mask>
-      <mask>*.s</mask>
-      <mask>*.sh</mask>
-      <mask>Gem</mask>
       <mask>g</mask>
       <mask>gem</mask>
       <mask>gemspec</mask>
@@ -42,6 +38,11 @@
       <mask>*</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>R</mask>
+      <mask>Ra</mask>
+      <mask>Rake</mask>
+      <mask>Rakefi</mask>
+      <mask>Rakefile</mask>
     </recentFileMasks>
   </component>
 </application>
