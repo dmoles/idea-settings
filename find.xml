@@ -4,14 +4,14 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="Rakefile" />
     <recentFileMasks>
       <mask>g</mask>
       <mask>gem</mask>
@@ -35,14 +35,14 @@
       <mask>.rubocop.</mask>
       <mask>.rubocop.y</mask>
       <mask>.rubocop.yml</mask>
+      <mask>*</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
       <mask>R</mask>
       <mask>Ra</mask>
       <mask>Rake</mask>
       <mask>Rakefi</mask>
       <mask>Rakefile</mask>
-      <mask>*</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
