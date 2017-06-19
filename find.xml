@@ -11,12 +11,8 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*spec.rb" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
-      <mask>gemspec</mask>
-      <mask>*gemspec</mask>
-      <mask>G</mask>
-      <mask>Ge</mask>
       <mask>Gemfi</mask>
       <mask>Gemfile</mask>
       <mask>./ru</mask>
@@ -40,9 +36,13 @@
       <mask>Rakefile</mask>
       <mask>*</mask>
       <mask>*.r</mask>
-      <mask>*.rb</mask>
       <mask>*s.rb</mask>
       <mask>*spec.rb</mask>
+      <mask>*c.rb</mask>
+      <mask>*contro.rb</mask>
+      <mask>*control.rb</mask>
+      <mask>*controller.rb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
