@@ -1280,6 +1280,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.15.1, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.15.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.15.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.15.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.15.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.15.1/task" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.15.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.15.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.15.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.15.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.15.1/task" />
+      </SOURCES>
+    </library>
     <library name="bundler-unload (v1.0.2, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5@global/gems/bundler-unload-1.0.2/lib" />
