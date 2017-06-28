@@ -2,15 +2,15 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localRegularExpressions" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*em*" />
     <recentFileMasks>
-      <mask>Gemfi</mask>
       <mask>Gemfile</mask>
       <mask>./ru</mask>
       <mask>./r</mask>
@@ -31,7 +31,6 @@
       <mask>Rake</mask>
       <mask>Rakefi</mask>
       <mask>Rakefile</mask>
-      <mask>*</mask>
       <mask>*.r</mask>
       <mask>*s.rb</mask>
       <mask>*spec.rb</mask>
@@ -40,6 +39,8 @@
       <mask>*control.rb</mask>
       <mask>*controller.rb</mask>
       <mask>*.rb</mask>
+      <mask>*</mask>
+      <mask>*em*</mask>
     </recentFileMasks>
   </component>
 </application>
