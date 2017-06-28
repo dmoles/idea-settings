@@ -2083,81 +2083,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.1/man" />
       </SOURCES>
     </library>
-    <library name="bundler (v1.13.6, ruby-2.2.5-p319) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.6/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.6/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.6/man" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.6/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.6/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.6/man" />
-      </SOURCES>
-    </library>
-    <library name="bundler (v1.13.7, ruby-2.2.5-p319) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/man" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/man" />
-      </SOURCES>
-    </library>
-    <library name="bundler (v1.14.3, ruby-2.2.5-p319) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.3/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.3/man" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.3/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.3/man" />
-      </SOURCES>
-    </library>
-    <library name="bundler (v1.14.5, ruby-2.2.5-p319) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.5/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.5/man" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.5/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.5/man" />
-      </SOURCES>
-    </library>
-    <library name="bundler (v1.14.6, ruby-2.2.5-p319) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/man" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.14.6/man" />
-      </SOURCES>
-    </library>
     <library name="bundler (v1.14.6, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.14.6/bin" />
@@ -4355,19 +4280,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/benchmark" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/evaluation" />
-      </SOURCES>
-    </library>
-    <library name="diff-lcs (v1.2.5, ruby-2.2.5-p319) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/diff-lcs-1.2.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/diff-lcs-1.2.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/diff-lcs-1.2.5/autotest" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/diff-lcs-1.2.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/diff-lcs-1.2.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
     <library name="diff-lcs (v1.2.5, RVM: ruby-2.2.3) [gem]">
