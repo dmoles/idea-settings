@@ -16358,6 +16358,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sortable-table-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="sortable-table (v0.1.1@a99533, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/sortable-table-a9953325741b/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/sortable-table-a9953325741b/lib" />
+      </SOURCES>
+    </library>
     <library name="spring (v1.7.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/spring-1.7.2/bin" />
