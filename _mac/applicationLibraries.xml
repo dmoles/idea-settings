@@ -16027,6 +16027,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/simplecov-console-0.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="simplecov-console (v0.4.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/simplecov-console-0.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/simplecov-console-0.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="simplecov-html (v0.10.0, ruby-2.2.5-p319) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/simplecov-html-0.10.0/lib" />
