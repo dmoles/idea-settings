@@ -3,14 +3,14 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*em*e*" />
+    <option name="FILE_MASK" value="*.*a*a" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -30,13 +30,17 @@
       <mask>*.a</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*e</mask>
       <mask>*em</mask>
       <mask>*em*</mask>
       <mask>*em*e</mask>
       <mask>*em*e*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
+      <mask>*.*a</mask>
+      <mask>*.*a*</mask>
+      <mask>*.*a*a</mask>
     </recentFileMasks>
   </component>
 </application>
