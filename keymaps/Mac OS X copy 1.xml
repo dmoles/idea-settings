@@ -1,9 +1,6 @@
 <keymap version="1" name="Mac OS X copy 1" parent="Mac OS X">
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
-  <action id="Generate">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
