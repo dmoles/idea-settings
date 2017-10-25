@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-10-17T15:07:11</property>
+    <property name="modified">2017-10-25T09:49:27</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -562,8 +562,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d8d8d8" />
-        <option name="ERROR_STRIPE_COLOR" value="d8d8d8" />
+        <option name="BACKGROUND" value="333333" />
+        <option name="ERROR_STRIPE_COLOR" value="666666" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
