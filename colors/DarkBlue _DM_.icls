@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-10-25T09:49:27</property>
+    <property name="modified">2017-11-03T15:04:51</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -532,6 +532,10 @@
         <option name="FOREGROUND" value="bfa4a4" />
       </value>
     </option>
+    <option name="RUBY_HASH_ASSOC" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3d5866" />
