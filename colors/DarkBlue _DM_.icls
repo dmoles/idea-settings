@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-11-03T15:18:12</property>
+    <property name="modified">2017-11-28T11:08:19</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -519,6 +519,11 @@
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="292c33" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
