@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-11-28T11:08:19</property>
+    <property name="modified">2017-11-30T10:48:36</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -183,6 +183,12 @@
         <option name="FOREGROUND" value="bfa4a4" />
       </value>
     </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="6b98b3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_BRACES">
       <value>
         <option name="FOREGROUND" value="d8d8d8" />
@@ -226,6 +232,11 @@
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="d9e577" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="999999" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
