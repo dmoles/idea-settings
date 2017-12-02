@@ -4117,6 +4117,41 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/jquery-ui-rails-6.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="jruby-9.1.14.0-p0 facet library">
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </SOURCES>
+    </library>
+    <library name="jruby-9.1.14.0-p0 facet library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/jruby/9.1.14.0/libexec/lib/ruby/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/jruby/9.1.14.0/libexec/lib/ruby/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </SOURCES>
+    </library>
+    <library name="jruby-9.1.14.0-p0 facet library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/jruby/9.1.14.0/libexec/lib/ruby/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+        <root url="file:///usr/local/Cellar/jruby/9.1.14.0/libexec/lib/ruby/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/jruby/9.1.14.0/libexec/lib/ruby/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+        <root url="file:///usr/local/Cellar/jruby/9.1.14.0/libexec/lib/ruby/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.6, RVM: ruby-2.2.5 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-1.8.6/ext" />
