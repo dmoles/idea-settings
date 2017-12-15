@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-12-01T17:12:26</property>
+    <property name="modified">2017-12-15T12:29:30</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -628,7 +628,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="52503a" />
+        <option name="BACKGROUND" value="463a52" />
         <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
