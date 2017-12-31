@@ -341,16 +341,6 @@
             </match>
           </rule>
         </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <CONSTRUCTOR>true</CONSTRUCTOR>
-                <PRIVATE>true</PRIVATE>
-              </AND>
-            </match>
-          </rule>
-        </section>
       </rules>
     </arrangement>
   </codeStyleSettings>
