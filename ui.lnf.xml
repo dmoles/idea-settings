@@ -1,6 +1,10 @@
 <application>
   <component name="DependencyUISettings">
-    <option name="SCOPE_TYPE" value="file" />
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
   </component>
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
