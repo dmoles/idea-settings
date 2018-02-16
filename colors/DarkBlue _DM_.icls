@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-12-15T12:29:30</property>
+    <property name="modified">2018-02-15T16:11:32</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -115,6 +115,11 @@
         <option name="FOREGROUND" value="c7dd0c" />
       </value>
     </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffff99" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="287bde" />
@@ -201,7 +206,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="dfff80" />
+        <option name="FOREGROUND" value="ffff99" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -276,17 +281,17 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="bed6ff" />
+        <option name="FOREGROUND" value="ffd500" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="fff0a6" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="dfff80" />
+        <option name="FOREGROUND" value="ffff99" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -335,7 +340,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="bfa4a4" />
+        <option name="FOREGROUND" value="16d977" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -355,12 +360,12 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="efc090" />
+        <option name="FOREGROUND" value="ff40ff" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="bed6ff" />
+        <option name="FOREGROUND" value="ffa6ff" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -501,11 +506,7 @@
         <option name="FOREGROUND" value="d8d8d8" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="bed6ff" />
-      </value>
-    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -540,14 +541,16 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="EFFECT_COLOR" value="808080" />
+        <option name="FOREGROUND" value="999999" />
+        <option name="EFFECT_COLOR" value="999999" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PARAMETER_ATTRIBUTES">
+    <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bfa4a4" />
+        <option name="FOREGROUND" value="16d977" />
+        <option name="EFFECT_COLOR" value="16d977" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_HEREDOC_CONTENT">
@@ -628,7 +631,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="463a52" />
+        <option name="BACKGROUND" value="383040" />
         <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
