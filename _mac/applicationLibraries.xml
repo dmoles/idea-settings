@@ -2153,26 +2153,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/datacite-mapping-0.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="debase (v0.2.1, ruby-2.4.1-p111) [gem]">
+    <library name="debase (v0.2.2, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.1/ext" />
-      </SOURCES>
-    </library>
-    <library name="debase (v0.2.2.beta10, ruby-2.4.1-p111) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2.beta10/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2.beta10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.2.beta10, RVM: ruby-2.2.5) [gem]">
@@ -2184,17 +2173,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/debase-0.2.2.beta10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/debase-0.2.2.beta10/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase (v0.2.2.beta11, ruby-2.4.1-p111) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2.beta11/ext" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-0.2.2.beta11/ext" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.2.beta9, RVM: ruby-2.2.5) [gem]">
@@ -2224,6 +2202,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-ruby_core_source-0.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-ruby_core_source-0.10.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.9, ruby-2.4.1-p111) [gem]">
@@ -3188,6 +3175,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gemoji-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="gemoji (v2.1.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/gemoji-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/gemoji-2.1.0/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/gemoji-2.1.0/db" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/gemoji-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/gemoji-2.1.0/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/gemoji-2.1.0/db" />
+      </SOURCES>
+    </library>
     <library name="geoblacklight (v1.1.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/geoblacklight-1.1.2/vendor" />
@@ -3297,6 +3297,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-0.6.8/lib" />
       </SOURCES>
     </library>
+    <library name="github-markdown (v0.6.8, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-0.6.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-0.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-0.6.8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-0.6.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-0.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-0.6.8/lib" />
+      </SOURCES>
+    </library>
     <library name="github-markdown-preview (v4.0.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-preview-4.0.2/lib" />
@@ -3308,6 +3321,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-preview-4.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-preview-4.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/github-markdown-preview-4.0.2/data" />
+      </SOURCES>
+    </library>
+    <library name="github-markdown-preview (v4.0.2, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-preview-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-preview-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-preview-4.0.2/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-preview-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-preview-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/github-markdown-preview-4.0.2/data" />
       </SOURCES>
     </library>
     <library name="github-markup (v1.4.0, ruby-2.4.1-p111) [gem]">
@@ -3561,6 +3587,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/html-pipeline-2.0/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/html-pipeline-2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/html-pipeline-2.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="html-pipeline (v2.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/html-pipeline-2.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/html-pipeline-2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/html-pipeline-2.0/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/html-pipeline-2.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/html-pipeline-2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/html-pipeline-2.0/bin" />
       </SOURCES>
     </library>
     <library name="http-cookie (v1.0.3, ruby-2.4.1-p111) [gem]">
@@ -4377,6 +4416,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/listen-3.0.3/bin" />
       </SOURCES>
     </library>
+    <library name="listen (v3.0.3, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/listen-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/listen-3.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/listen-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/listen-3.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/loofah-2.0.3/lib" />
@@ -4702,6 +4752,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mini_portile-0.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile (v0.6.2, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/mini_portile-0.6.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/mini_portile-0.6.2/lib" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.0.0, ruby-2.4.1-p111) [gem]">
@@ -5286,6 +5345,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.6.5/ext" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.6.5, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.6.5/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.6.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.6.5/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.6.5/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.6.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.6.5/tasks" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.6.7.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.6.7.2/ports" />
@@ -5530,6 +5606,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogumbo-1.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogumbo-1.4.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogumbo-1.4.1/gumbo-parser" />
+      </SOURCES>
+    </library>
+    <library name="nokogumbo (v1.4.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogumbo-1.4.1/gumbo-parser" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogumbo-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogumbo-1.4.1/ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogumbo-1.4.1/gumbo-parser" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogumbo-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogumbo-1.4.1/ext" />
       </SOURCES>
     </library>
     <library name="oai (v0.4.0, ruby-2.4.1-p111) [gem]">
@@ -8409,6 +8498,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sanitize-4.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="sanitize (v4.0.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sanitize-4.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sanitize-4.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sass (v3.4.24, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sass-3.4.24/lib" />
@@ -8584,6 +8682,23 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sauce_whisk-0.1.0/lib" />
       </SOURCES>
+    </library>
+    <library name="scala-sdk-2.11.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.8-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="scss_lint (v0.53.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
