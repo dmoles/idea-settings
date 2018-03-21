@@ -1154,15 +1154,9 @@
       </SOURCES>
     </library>
     <library name="binding_of_caller (v0.7.2, ruby-2.4.1-p111) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/binding_of_caller-0.7.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/binding_of_caller-0.7.2/ext" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/binding_of_caller-0.7.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/binding_of_caller-0.7.2/ext" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
@@ -6823,6 +6817,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/public_suffix-3.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/public_suffix-3.0.2/bin" />
       </SOURCES>
+    </library>
+    <library name="Python 3.6 (mrt-autoscale-analysis-AbSNM7KP) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 3.6 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="rack (v1.6.8, ruby-2.4.1-p111) [gem]">
       <CLASSES>
