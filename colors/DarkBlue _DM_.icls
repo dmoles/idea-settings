@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2018-03-21T16:25:42</property>
+    <property name="modified">2018-03-23T11:48:56</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -22,6 +22,7 @@
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="1b4661" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1d4e6d" />
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -49,7 +50,7 @@
     <option name="SELECTION_BACKGROUND" value="376a89" />
     <option name="SELECTION_FOREGROUND" value="d0d0d0" />
     <option name="TEARLINE_COLOR" value="50809b" />
-    <option name="WHITESPACES" value="505050" />
+    <option name="WHITESPACES" value="386780" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
