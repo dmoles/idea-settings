@@ -1,5 +1,10 @@
 <code_scheme name="Default (5)" version="173">
   <option name="RIGHT_MARGIN" value="150" />
+  <JavaCodeStyleSettings>
+    <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
+    <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
+    <option name="JD_INDENT_ON_CONTINUATION" value="true" />
+  </JavaCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
   </ScalaCodeStyleSettings>
