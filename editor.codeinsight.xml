@@ -1,8 +1,8 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
     <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="jdk" />
-    <EXCLUDED_PACKAGE NAME="org.junit.jupiter.params.shadow" />
     <EXCLUDED_PACKAGE NAME="scala.sys.process.processInternal" />
     <EXCLUDED_PACKAGE NAME="sun" />
   </component>
