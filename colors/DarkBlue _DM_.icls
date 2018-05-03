@@ -50,7 +50,7 @@
     <option name="SELECTION_BACKGROUND" value="376a89" />
     <option name="SELECTION_FOREGROUND" value="d0d0d0" />
     <option name="TEARLINE_COLOR" value="50809b" />
-    <option name="WHITESPACES" value="386780" />
+    <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -114,6 +114,11 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="c7dd0c" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffff99" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -282,7 +287,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="fff0a6" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -336,7 +341,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="abffee" />
+        <option name="FOREGROUND" value="16d977" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -492,9 +497,9 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="6b5345" />
-        <option name="ERROR_STRIPE_COLOR" value="6b3b1d" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_COLOR" value="4d4d26" />
+        <option name="ERROR_STRIPE_COLOR" value="4d4d26" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -527,6 +532,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff8647" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
@@ -541,8 +547,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="EFFECT_COLOR" value="808080" />
+        <option name="FOREGROUND" value="999999" />
+        <option name="EFFECT_COLOR" value="999999" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
