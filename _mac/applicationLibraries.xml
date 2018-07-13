@@ -2492,10 +2492,12 @@
     </library>
     <library name="eventmachine (v1.2.3, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/eventmachine/1.2.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/eventmachine-1.2.3/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/eventmachine/1.2.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/eventmachine-1.2.3/lib" />
       </SOURCES>
     </library>
@@ -5762,10 +5764,12 @@
     </library>
     <library name="puma (v3.8.2, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/puma-3.8.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/puma-3.8.2/lib" />
       </SOURCES>
     </library>
@@ -8322,10 +8326,12 @@
     </library>
     <library name="thin (v1.7.0, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/thin-1.7.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/thin-1.7.0/lib" />
       </SOURCES>
     </library>
@@ -8776,10 +8782,12 @@
     </library>
     <library name="unicode (v0.4.4.4, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicode/0.4.4.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/unicode-0.4.4.4/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicode/0.4.4.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/unicode-0.4.4.4/lib" />
       </SOURCES>
     </library>
