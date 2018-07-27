@@ -10687,6 +10687,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
+    <library name="RVM: jruby-9.1.14.0 [global] facet library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/2.3/site_ruby" />
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/2.3/site_ruby" />
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </SOURCES>
+    </library>
     <library name="RVM: jruby-9.1.14.0 facet library">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/2.3/site_ruby" />
