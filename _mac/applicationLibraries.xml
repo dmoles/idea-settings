@@ -61,5 +61,21 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="org.jenkins-ci.plugins:job-dsl:1.70" type="repository">
+      <properties maven-id="org.jenkins-ci.plugins:job-dsl:1.70" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/job-dsl/1.70/job-dsl-1.70.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-all/2.4.11/groovy-all-2.4.11.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/job-dsl-core/1.70/job-dsl-core-1.70.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.8/commons-codec-1.8.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/xmlunit/xmlunit/1.4/xmlunit-1.4.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/structs/1.13/structs-1.13.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/symbol-annotation/1.13/symbol-annotation-1.13.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/script-security/1.25/script-security-1.25.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/kohsuke/groovy-sandbox/1.10/groovy-sandbox-1.10.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
