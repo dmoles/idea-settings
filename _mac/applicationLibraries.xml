@@ -918,6 +918,11 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/visitors" />
       </excluded>
     </library>
+    <library name="Python 3.6 virtualenv at ~/python3.6 virtualenv interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="rake (v12.0.0, RVM: ruby-2.4.4 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
