@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="solr-dash2" type="Bash" />
+      <mapping ext="csh" type="Bash" />
+      <removed_mapping ext="conf" approved="true" type="HOCON" />
+      <mapping pattern="*.md.txt" type="Markdown" />
+      <mapping pattern="happybinder" type="PLAIN_TEXT" />
+      <mapping pattern="INSTALLATION" type="PLAIN_TEXT" />
+      <mapping pattern="res1" type="PLAIN_TEXT" />
+      <mapping pattern="Convertible" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="pho" type="PLAIN_TEXT" />
+      <mapping pattern=".simplecov" type="Ruby" />
+      <mapping ext="atom" type="XML" />
+    </extensionMap>
+  </component>
+</application>
