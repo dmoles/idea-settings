@@ -689,6 +689,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fakeweb-1.3.0/test" />
       </excluded>
     </library>
+    <library name="fakeweb (v1.3.0@2b08c1, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/bundler/gems/fakeweb-2b08c1ff2714/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/bundler/gems/fakeweb-2b08c1ff2714/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/bundler/gems/fakeweb-2b08c1ff2714/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/bundler/gems/fakeweb-2b08c1ff2714/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/bundler/gems/fakeweb-2b08c1ff2714/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/bundler/gems/fakeweb-2b08c1ff2714/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/bundler/gems/fakeweb-2b08c1ff2714/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/bundler/gems/fakeweb-2b08c1ff2714/test" />
+      </excluded>
+    </library>
     <library name="fcntl (v1.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1433,6 +1453,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-2.99.3/support" />
       </excluded>
     </library>
+    <library name="mime-types (v3.2.2, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-3.2.2/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-3.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-3.2.2/test" />
+      </excluded>
+    </library>
     <library name="mime-types (v3.2.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1448,6 +1485,26 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mime-types-3.2.2/test" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2018.0812, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-data-3.2018.0812/types" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-data-3.2018.0812/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mime-types-data-3.2018.0812/types" />
       </excluded>
     </library>
     <library name="mime-types-data (v3.2018.0812, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -2768,6 +2825,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rest-client-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rest-client-1.8.0/spec" />
+      </excluded>
+    </library>
+    <library name="rest-client (v2.0.2, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rest-client-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rest-client-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rest-client-2.0.2/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rest-client-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rest-client-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rest-client-2.0.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rest-client-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rest-client-2.0.2/spec" />
       </excluded>
     </library>
     <library name="rouge (v2.2.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
