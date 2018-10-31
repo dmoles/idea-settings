@@ -347,6 +347,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/bundler-1.16.6/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.16.6, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bundler-1.16.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bundler-1.16.6/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bundler-1.16.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bundler-1.16.6/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bundler-1.16.6/man" />
+      </excluded>
+    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.4.4 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1358,6 +1378,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/bundler/gems/fakeweb-2b08c1ff2714/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/bundler/gems/fakeweb-2b08c1ff2714/test" />
+      </excluded>
+    </library>
+    <library name="fakeweb (v1.3.0@2b08c1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/fakeweb-2b08c1ff2714/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/fakeweb-2b08c1ff2714/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/fakeweb-2b08c1ff2714/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/fakeweb-2b08c1ff2714/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/fakeweb-2b08c1ff2714/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/fakeweb-2b08c1ff2714/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/fakeweb-2b08c1ff2714/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/fakeweb-2b08c1ff2714/test" />
       </excluded>
     </library>
     <library name="fcntl (v1.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -3375,6 +3415,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@global/gems/power_assert-0.4.1/benchmarks" />
       </excluded>
     </library>
+    <library name="power_assert (v0.4.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/power_assert-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/power_assert-0.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/power_assert-0.4.1/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/power_assert-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/power_assert-0.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/power_assert-0.4.1/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/power_assert-0.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/power_assert-0.4.1/benchmarks" />
+      </excluded>
+    </library>
     <library name="power_assert (v1.1.1, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4191,6 +4251,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rest-client-2.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rest-client-2.0.2/spec" />
+      </excluded>
+    </library>
+    <library name="rest-client (v2.0.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rest-client-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rest-client-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rest-client-2.0.2/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rest-client-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rest-client-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rest-client-2.0.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rest-client-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rest-client-2.0.2/spec" />
       </excluded>
     </library>
     <library name="rouge (v2.2.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -5032,6 +5112,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@global/gems/test-unit-3.2.3/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@global/gems/test-unit-3.2.3/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@global/gems/test-unit-3.2.3/sample" />
+      </excluded>
+    </library>
+    <library name="test-unit (v3.2.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/test-unit-3.2.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/test-unit-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/test-unit-3.2.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/test-unit-3.2.3/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/test-unit-3.2.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/test-unit-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/test-unit-3.2.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/test-unit-3.2.3/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/test-unit-3.2.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/test-unit-3.2.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/test-unit-3.2.3/sample" />
       </excluded>
     </library>
     <library name="test-unit (v3.2.7, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
