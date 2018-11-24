@@ -11,9 +11,8 @@
       <mapping pattern="res1" type="PLAIN_TEXT" />
       <mapping pattern="Convertible" type="PLAIN_TEXT" />
       <mapping ext="pho" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="atom" type="XML" />
       <mapping pattern=".simplecov" type="Ruby" />
+      <mapping ext="atom" type="XML" />
     </extensionMap>
   </component>
 </application>
