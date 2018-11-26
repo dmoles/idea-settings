@@ -1,0 +1,8 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="org.assertj.core.api.Java6Assertions" />
+    <EXCLUDED_PACKAGE NAME="org.gradle.internal.impldep" />
+    <EXCLUDED_PACKAGE NAME="org.junit.jupiter.params.shadow" />
+    <EXCLUDED_PACKAGE NAME="sun" />
+  </component>
+</application>
