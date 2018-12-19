@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2018-10-23T10:29:23</property>
+    <property name="modified">2018-12-18T15:25:49</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -225,9 +225,7 @@
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="f7a92c" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="f7a92c" />
+        <option name="FOREGROUND" value="dfff80" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -248,7 +246,8 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="3d6652" />
+        <option name="FOREGROUND" value="59b386" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
@@ -283,7 +282,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="79abff" />
+        <option name="FOREGROUND" value="bed6ff" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -332,7 +331,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="b3ccff" />
+        <option name="FOREGROUND" value="e6e6" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -509,9 +508,9 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="4d4d26" />
-        <option name="ERROR_STRIPE_COLOR" value="4d4d26" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="995900" />
+        <option name="ERROR_STRIPE_COLOR" value="995900" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -655,8 +654,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="b08030" />
-        <option name="ERROR_STRIPE_COLOR" value="b08030" />
+        <option name="EFFECT_COLOR" value="ffd500" />
+        <option name="ERROR_STRIPE_COLOR" value="ffd500" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
