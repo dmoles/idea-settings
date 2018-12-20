@@ -4022,6 +4022,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sshkit-1.18.0/examples" />
       </excluded>
     </library>
+    <library name="sshkit-sudo (v0.1.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sshkit-sudo-0.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sshkit-sudo-0.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="stringio (v0.0.1, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
