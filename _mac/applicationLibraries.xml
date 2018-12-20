@@ -207,6 +207,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/ast-2.4.0/test" />
       </excluded>
     </library>
+    <library name="ast (v2.4.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ast-2.4.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ast-2.4.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ast-2.4.0/test" />
+      </excluded>
+    </library>
     <library name="bigdecimal (v1.3.2, RVM: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1687,6 +1704,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
       </excluded>
     </library>
+    <library name="jaro_winkler-1.5.1-x86_64-darwin (v1.5.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1-x86_64-darwin-17/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1-x86_64-darwin-17/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
+      </excluded>
+    </library>
     <library name="jquery-rails (v4.3.1, RVM: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2599,6 +2633,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/parallel-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.5.1.2, RVM: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2620,6 +2666,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/parser-2.5.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/parser-2.5.1.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/parser-2.5.1.2/test" />
+      </excluded>
+    </library>
+    <library name="parser (v2.5.3.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.3.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.3.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.3.0/test" />
       </excluded>
     </library>
     <library name="power_assert (v0.4.1, RVM: ruby-2.4.4 [global]) [gem]" type="rubylib">
@@ -2711,6 +2780,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/powerpack-0.1.2/spec" />
+      </excluded>
+    </library>
+    <library name="powerpack (v0.1.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/powerpack-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/powerpack-0.1.2/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/powerpack-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/powerpack-0.1.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/powerpack-0.1.2/spec" />
       </excluded>
     </library>
     <library name="psych (v2.2.2, RVM: ruby-2.4.4) [gem]" type="rubylib">
@@ -3047,6 +3133,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rainbow-3.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="rainbow (v3.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rainbow-3.0.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rainbow-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rainbow-3.0.0/spec" />
       </excluded>
     </library>
     <library name="rake (v12.0.0, RVM: ruby-2.4.4 [global]) [gem]" type="rubylib">
@@ -3435,6 +3538,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.58.1/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.61.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.61.1/config" />
+      </excluded>
+    </library>
     <library name="ruby-debug-ide (v0.7.0.beta6, RVM: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3483,6 +3612,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/ruby-prof-0.17.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/ruby-prof-0.17.0/examples" />
       </excluded>
+    </library>
+    <library name="ruby-progressbar (v1.10.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-progressbar-1.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-progressbar-1.10.0/lib" />
+      </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.9.0, RVM: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
@@ -4189,6 +4330,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/unicode-display_width-1.4.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/unicode-display_width-1.4.0/spec" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.4.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.0/spec" />
       </excluded>
     </library>
     <library name="uuidtools (v2.1.5, RVM: ruby-2.4.4) [gem]" type="rubylib">
