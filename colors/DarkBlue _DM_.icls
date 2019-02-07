@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-01-09T08:35:10</property>
+    <property name="modified">2019-02-07T09:59:09</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -576,6 +576,48 @@
       </value>
     </option>
     <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
+    <option name="RHTML_EXPRESSION_END_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_START_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_OMIT_NEW_LINE_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_END_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_START_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="RUBY_EXPR_IN_STRING" baseAttributes="DEFAULT_PARENTHS" />
     <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="RUBY_HASH_ASSOC" baseAttributes="DEFAULT_OPERATION_SIGN" />
