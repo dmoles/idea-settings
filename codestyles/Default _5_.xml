@@ -1,5 +1,16 @@
 <code_scheme name="Default (5)" version="173">
   <option name="RIGHT_MARGIN" value="150" />
+  <GoCodeStyleSettings>
+    <option name="ADD_PARENTHESES_FOR_SINGLE_IMPORT" value="true" />
+    <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
+    <option name="COMMENTS_WITHOUT_LEADING_SPACE">
+      <value>
+        <prefixes>
+          <prefix value="go:" />
+        </prefixes>
+      </value>
+    </option>
+  </GoCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
     <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
