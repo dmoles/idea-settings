@@ -2,5 +2,7 @@
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="false" />
     <option name="myPasteOnMiddleMouseButton" value="false" />
+    <option name="myShellIntegration" value="false" />
+    <option name="myShellPath" value="/bin/bash" />
   </component>
 </application>
