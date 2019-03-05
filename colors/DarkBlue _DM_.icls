@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-02-07T09:59:09</property>
+    <property name="modified">2019-03-05T10:11:55</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -346,7 +346,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="66cc99" />
+        <option name="FOREGROUND" value="43bf81" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -733,6 +733,11 @@
       <value>
         <option name="FOREGROUND" value="ff6666" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="4c9bbf" />
       </value>
     </option>
   </attributes>
