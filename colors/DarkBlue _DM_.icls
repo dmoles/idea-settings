@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-03-05T10:11:55</property>
+    <property name="modified">2019-03-12T11:31:56</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -21,7 +21,7 @@
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="1b4661" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1d4e6d" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="e2736" />
     <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
