@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-01-09T08:35:10</property>
+    <property name="modified">2019-02-01T16:35:17</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -387,7 +387,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="339900" />
+        <option name="FOREGROUND" value="40bf00" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
