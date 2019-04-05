@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-03-12T11:31:56</property>
+    <property name="modified">2019-04-02T10:06:50</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -409,7 +409,7 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="1d4e6d" />
-        <option name="BACKGROUND" value="d8d8d8" />
+        <option name="BACKGROUND" value="d2733" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
