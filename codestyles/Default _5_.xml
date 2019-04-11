@@ -1,5 +1,16 @@
 <code_scheme name="Default (5)" version="173">
   <option name="RIGHT_MARGIN" value="150" />
+  <GoCodeStyleSettings>
+    <option name="ADD_PARENTHESES_FOR_SINGLE_IMPORT" value="true" />
+    <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
+    <option name="COMMENTS_WITHOUT_LEADING_SPACE">
+      <value>
+        <prefixes>
+          <prefix value="go:" />
+        </prefixes>
+      </value>
+    </option>
+  </GoCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
     <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
@@ -357,6 +368,13 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="BLANK_LINES_AROUND_METHOD" value="0" />

@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-02-01T16:35:17</property>
+    <property name="modified">2019-04-05T15:00:49</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -21,7 +21,7 @@
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="1b4661" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1d4e6d" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="e2736" />
     <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -50,6 +50,7 @@
     <option name="SELECTION_BACKGROUND" value="376a89" />
     <option name="SELECTION_FOREGROUND" value="d0d0d0" />
     <option name="TEARLINE_COLOR" value="50809b" />
+    <option name="VISUAL_INDENT_GUIDE" value="606060" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -346,7 +347,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="66cc99" />
+        <option name="FOREGROUND" value="43bf81" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -387,7 +388,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="40bf00" />
+        <option name="FOREGROUND" value="339900" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -409,7 +410,7 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="1d4e6d" />
-        <option name="BACKGROUND" value="d8d8d8" />
+        <option name="BACKGROUND" value="d2733" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
@@ -576,6 +577,48 @@
       </value>
     </option>
     <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
+    <option name="RHTML_EXPRESSION_END_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_START_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_OMIT_NEW_LINE_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_END_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_START_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="RUBY_EXPR_IN_STRING" baseAttributes="DEFAULT_PARENTHS" />
     <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="RUBY_HASH_ASSOC" baseAttributes="DEFAULT_OPERATION_SIGN" />
@@ -691,6 +734,11 @@
       <value>
         <option name="FOREGROUND" value="ff6666" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="4c9bbf" />
       </value>
     </option>
   </attributes>
