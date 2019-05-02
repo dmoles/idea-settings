@@ -9,6 +9,7 @@
     <resource url="http://schema.datacite.org/meta/kernel-4/metadata.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/97617368_metadata.xsd" />
     <resource url="http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/5d059368_OAI-PMH.xsd" />
     <resource url="http://www.openarchives.org/OAI/2.0/oai_dc.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/705f640a_oai_dc.xsd" />
+    <resource url="http://www.openarchives.org/OAI/2.0/oai_dc/" location="$USER_HOME$/Work/mrt-tind-harvester/spec/schemas/oai_dc.xsd" />
     <resource url="http://www.openarchives.org/rs/terms/" location="$USER_HOME$/Work/Stash/resync/spec/data/resourcesync.xsd" />
     <resource url="http://www.sitemaps.org/schemas/sitemap/0.9" location="$USER_HOME$/Work/Stash/resync/spec/data/sitemap.xsd" />
     <resource url="http://www.w3.org/2001/03/xml.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/1c608002_xml.xsd" />
@@ -16,5 +17,6 @@
     <resource url="http://www.w3.org/2009/01/xml.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/3164ccf8_xml.xsd" />
     <resource url="https://dash.cdlib.org/stash_wrapper/" location="$USER_HOME$/Work/Stash/stash-harvester/spec/data/wrapper/stash_wrapper.xsd" />
     <resource url="https://www.loc.gov/ead/ead3.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.3/extResources/358b80cd_ead3.dtd" />
+    <ignored-resource url="http://invenio-software.org/elements/1.0" />
   </component>
 </application>
