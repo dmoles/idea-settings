@@ -9805,6 +9805,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mrt-ingest-0.0.4/test" />
       </excluded>
     </library>
+    <library name="mrt-ingest (v0.0.5, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mrt-ingest-0.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mrt-ingest-0.0.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mrt-ingest-0.0.5/.idea" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mrt-ingest-0.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mrt-ingest-0.0.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mrt-ingest-0.0.5/.idea" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mrt-ingest-0.0.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mrt-ingest-0.0.5/.idea" />
+      </excluded>
+    </library>
     <library name="msgpack (v1.2.9, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
