@@ -15309,6 +15309,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.69.0/config" />
       </excluded>
     </library>
+    <library name="rubocop-rspec (v1.33.0, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-rspec-1.33.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-rspec-1.33.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-rspec-1.33.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-rspec-1.33.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-rspec-1.33.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-rspec-1.33.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-rspec-1.33.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-rspec-1.33.0/config" />
+      </excluded>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta4, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
