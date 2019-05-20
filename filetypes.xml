@@ -11,6 +11,7 @@
       <mapping pattern="res1" type="PLAIN_TEXT" />
       <mapping pattern="happybinder" type="PLAIN_TEXT" />
       <mapping pattern="INSTALLATION" type="PLAIN_TEXT" />
+      <mapping pattern=".standalone_migrations" type="PLAIN_TEXT" />
       <mapping pattern="Convertible" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pho" type="PLAIN_TEXT" />
