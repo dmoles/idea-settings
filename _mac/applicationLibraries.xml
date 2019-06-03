@@ -5213,6 +5213,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/hashdiff-0.3.9/spec" />
       </excluded>
     </library>
+    <library name="hashdiff (v0.4.0, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/hashdiff-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/hashdiff-0.4.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/hashdiff-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/hashdiff-0.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/hashdiff-0.4.0/spec" />
+      </excluded>
+    </library>
     <library name="hashie (v3.5.6, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -7385,6 +7402,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/multipart-post-2.0.0/test" />
       </excluded>
     </library>
+    <library name="multipart-post (v2.1.1, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/multipart-post-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/multipart-post-2.1.1/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/multipart-post-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/multipart-post-2.1.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/multipart-post-2.1.1/spec" />
+      </excluded>
+    </library>
     <library name="mustache (v0.99.8, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -9176,6 +9210,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.0.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.0.3/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.0.3/test" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v3.1.0, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.1.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/public_suffix-3.1.0/test" />
       </excluded>
     </library>
     <library name="puma (v3.12.1, RVM: ruby-2.4.4) [gem]" type="rubylib">
@@ -11387,6 +11444,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.68.1/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.71.0, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rubocop-0.71.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop-rspec (v1.33.0, RVM: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -11530,6 +11613,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-progressbar-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.10.1, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/ruby-progressbar-1.10.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/ruby-progressbar-1.10.1/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.8.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
@@ -12357,6 +12452,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/simplecov-console-0.4.2/test" />
       </excluded>
     </library>
+    <library name="simplecov-console (v0.5.0, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/simplecov-console-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/simplecov-console-0.5.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/simplecov-console-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/simplecov-console-0.5.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/simplecov-console-0.5.0/test" />
+      </excluded>
+    </library>
     <library name="simplecov-html (v0.10.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -12945,6 +13057,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/term-ansicolor-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/term-ansicolor-1.7.0/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/term-ansicolor-1.7.0/examples" />
+      </excluded>
+    </library>
+    <library name="terminal-table (v1.8.0, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/terminal-table-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/terminal-table-1.8.0/examples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/terminal-table-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/terminal-table-1.8.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/terminal-table-1.8.0/examples" />
       </excluded>
     </library>
     <library name="terrapin (v0.6.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
@@ -13944,6 +14073,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/unicode-display_width-1.5.0/data" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.6.0, RVM: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/unicode-display_width-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/unicode-display_width-1.6.0/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/unicode-display_width-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/unicode-display_width-1.6.0/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/unicode-display_width-1.6.0/data" />
       </excluded>
     </library>
     <library name="unicode_utils (v1.4.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
