@@ -5769,13 +5769,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/jaro_winkler-1.5.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/jaro_winkler-1.5.2/lib" />
       </SOURCES>
@@ -6081,7 +6079,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/json-2.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/json-2.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/json-2.2.0/java" />
@@ -6092,7 +6089,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/json-2.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/json-2.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/json-2.2.0/java" />
@@ -7475,7 +7471,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mysql2-0.4.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mysql2-0.4.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mysql2-0.4.10/spec" />
@@ -7484,7 +7479,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mysql2-0.4.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mysql2-0.4.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mysql2-0.4.10/spec" />
@@ -7863,7 +7857,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/nokogiri-1.10.3/lib" />
@@ -7871,7 +7864,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/nokogiri-1.10.3/lib" />
