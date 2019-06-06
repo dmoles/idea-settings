@@ -1,20 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="solr-dash2" type="Bash" />
       <mapping ext="csh" type="Bash" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping pattern="*.md.txt" type="Markdown" />
+      <mapping pattern="res1" type="PLAIN_TEXT" />
+      <mapping pattern=".standalone_migrations" type="PLAIN_TEXT" />
       <mapping pattern="happybinder" type="PLAIN_TEXT" />
       <mapping pattern="INSTALLATION" type="PLAIN_TEXT" />
-      <mapping pattern="res1" type="PLAIN_TEXT" />
       <mapping pattern="Convertible" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pho" type="PLAIN_TEXT" />
       <mapping pattern=".simplecov" type="Ruby" />
       <mapping ext="atom" type="XML" />
+      <removed_mapping pattern="gen_csh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="HOCON" />
     </extensionMap>
   </component>
 </application>

@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-03-05T10:11:55</property>
+    <property name="modified">2019-05-30T09:49:00</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -14,14 +14,14 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="1b4661" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1d4e6d" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="e2736" />
     <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -50,6 +50,7 @@
     <option name="SELECTION_BACKGROUND" value="376a89" />
     <option name="SELECTION_FOREGROUND" value="d0d0d0" />
     <option name="TEARLINE_COLOR" value="50809b" />
+    <option name="VISUAL_INDENT_GUIDE" value="606060" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -409,7 +410,7 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="1d4e6d" />
-        <option name="BACKGROUND" value="d8d8d8" />
+        <option name="BACKGROUND" value="d2733" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
@@ -508,9 +509,9 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="995900" />
-        <option name="ERROR_STRIPE_COLOR" value="995900" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_COLOR" value="665b4d" />
+        <option name="ERROR_STRIPE_COLOR" value="665b4d" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
