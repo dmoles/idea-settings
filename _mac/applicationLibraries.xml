@@ -983,6 +983,18 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="full" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.10_full.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.10_full.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="gem-wrappers (v1.4.0, RVM: ruby-2.5.3 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1112,6 +1124,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/jbuilder-2.9.1/gemfiles" />
       </excluded>
     </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery@3.4.1_dist_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery@3.4.1_dist_jquery.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="json (v2.1.0, RVM: ruby-2.5.3 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1141,6 +1165,42 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.3/lib/ruby/2.5.0/json/add" />
       </excluded>
+    </library>
+    <library name="jwplayer" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_servlet1.lib.berkeley.edu:8080_audio_javascript_jwplayer.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_servlet1.lib.berkeley.edu:8080_audio_javascript_jwplayer.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jwplayer.html5" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_servlet1.lib.berkeley.edu:8080_audio_javascript_jwplayer.html5.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_servlet1.lib.berkeley.edu:8080_audio_javascript_jwplayer.html5.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jwpsrv" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_p.jwpcdn.com_6_8_jwpsrv.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_p.jwpcdn.com_6_8_jwpsrv.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="listen (v3.1.5, RVM: ruby-2.5.3) [gem]" type="rubylib">
       <properties>
@@ -2732,6 +2792,18 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/unicode-display_width-1.6.0/data" />
       </excluded>
+    </library>
+    <library name="video" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_vjs.zencdn.net_7.5.5_video.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_vjs.zencdn.net_7.5.5_video.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="web-console (v3.7.0, RVM: ruby-2.5.3) [gem]" type="rubylib">
       <properties>
