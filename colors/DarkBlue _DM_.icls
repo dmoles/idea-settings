@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-07-01T14:27:32</property>
+    <property name="modified">2019-07-08T16:23:25</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -283,7 +283,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d8d8d8" />
+        <option name="FOREGROUND" value="f0f0f0" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -333,7 +333,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="5c8599" />
+        <option name="FOREGROUND" value="75a8bf" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -384,7 +384,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="339900" />
+        <option name="FOREGROUND" value="bf60" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -559,6 +559,28 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PERL_ARRAY" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_ARRAY_BUILTIN" baseAttributes="PERL_ARRAY" />
+    <option name="PERL_DQ_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_DX_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_EMBED_MARKER" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="PERL_GLOB" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_GLOB_BUILTIN" baseAttributes="PERL_GLOB" />
+    <option name="PERL_HASH" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_HASH_BUILTIN" baseAttributes="PERL_HASH" />
+    <option name="PERL_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_NUMBER" baseAttributes="DEFAULT_NUMBER" />
+    <option name="PERL_PACKAGE" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="PERL_PACKAGE_CORE" baseAttributes="PERL_PACKAGE" />
+    <option name="PERL_PACKAGE_PRAGMA" baseAttributes="PERL_PACKAGE" />
+    <option name="PERL_REGEX_TOKEN" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_SCALAR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_SQ_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_SUB" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="PERL_SUB_BUILTIN" baseAttributes="PERL_SUB" />
+    <option name="PERL_SUB_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="PERL_VERSION" baseAttributes="PERL_NUMBER" />
+    <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="16d977" />
