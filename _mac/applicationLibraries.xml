@@ -1127,10 +1127,12 @@
     <library name="jquery" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.3.2_jquery.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery@3.4.1_dist_jquery.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.3.2_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery@3.4.1_dist_jquery.js" />
       </CLASSES>
       <JAVADOC />
@@ -2809,10 +2811,12 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_vjs.zencdn.net_7.5.5_video.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.lib.berkeley.edu_video-js_video.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_vjs.zencdn.net_7.5.5_video.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.lib.berkeley.edu_video-js_video.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
