@@ -36,5 +36,93 @@
         <versionManager id="system" />
       </additional>
     </perl>
+    <perl version="2">
+      <name value="Local, Perlbrew[perl-5.31.1]: Perl 5.31.1" />
+      <type value="Perl5 Interpreter" />
+      <version value="5.31.1 for darwin-2level" />
+      <homePath value="/usr/local/perl5/perls/perl-5.31.1/bin/perl5.31.1" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/perl5/perls/perl-5.31.1/lib/site_perl/5.31.1/darwin-2level" type="simple" />
+            <root url="file:///usr/local/perl5/perls/perl-5.31.1/lib/site_perl/5.31.1" type="simple" />
+            <root url="file:///usr/local/perl5/perls/perl-5.31.1/lib/5.31.1/darwin-2level" type="simple" />
+            <root url="file:///usr/local/perl5/perls/perl-5.31.1/lib/5.31.1" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <host id="localhost" />
+        <implementation id="porters" />
+        <versionManager id="perlbrew">
+          <info>
+            <map>
+              <entry key="Name" value="perl-5.31.1" />
+              <entry key="PERLBREW_HOME" value="$USER_HOME$/.perlbrew" />
+              <entry key="PERLBREW_MANPATH" value="/usr/local/perl5/perls/perl-5.31.1/man" />
+              <entry key="PERLBREW_PATH" value="/usr/local/perl5/bin:/usr/local/perl5/perls/perl-5.31.1/bin" />
+              <entry key="PERLBREW_ROOT" value="/usr/local/perl5" />
+              <entry key="Path" value="/usr/local/perl5/perls/perl-5.31.1/bin/perl" />
+              <entry key="version" value="0.86" />
+            </map>
+          </info>
+          <versionManagerPath>/usr/local/perl5/bin/perlbrew</versionManagerPath>
+          <perlVersion>perl-5.31.1</perlVersion>
+        </versionManager>
+      </additional>
+    </perl>
+    <perl version="2">
+      <name value="Local, Perlbrew[perl-5.31.1]: Perl 5.31.1 (2)" />
+      <type value="Perl5 Interpreter" />
+      <version value="5.31.1 for darwin-2level" />
+      <homePath value="/usr/local/perl5/perls/perl-5.31.1/bin/perl5.31.1" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/perl5/perls/perl-5.31.1/lib/site_perl/5.31.1/darwin-2level" type="simple" />
+            <root url="file:///usr/local/perl5/perls/perl-5.31.1/lib/site_perl/5.31.1" type="simple" />
+            <root url="file:///usr/local/perl5/perls/perl-5.31.1/lib/5.31.1/darwin-2level" type="simple" />
+            <root url="file:///usr/local/perl5/perls/perl-5.31.1/lib/5.31.1" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <host id="localhost" />
+        <implementation id="porters" />
+        <versionManager id="perlbrew">
+          <info>
+            <map>
+              <entry key="Name" value="perl-5.31.1" />
+              <entry key="PERLBREW_HOME" value="$USER_HOME$/.perlbrew" />
+              <entry key="PERLBREW_MANPATH" value="/usr/local/perl5/perls/perl-5.31.1/man" />
+              <entry key="PERLBREW_PATH" value="/usr/local/perl5/bin:/usr/local/perl5/perls/perl-5.31.1/bin" />
+              <entry key="PERLBREW_ROOT" value="/usr/local/perl5" />
+              <entry key="Path" value="/usr/local/perl5/perls/perl-5.31.1/bin/perl" />
+              <entry key="version" value="0.86" />
+            </map>
+          </info>
+          <versionManagerPath>/usr/local/perl5/bin/perlbrew</versionManagerPath>
+          <perlVersion>perl-5.31.1</perlVersion>
+        </versionManager>
+      </additional>
+    </perl>
   </component>
 </application>
