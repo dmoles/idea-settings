@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-07-08T16:23:25</property>
+    <property name="modified">2019-07-09T14:55:20</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -243,7 +243,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="3d6652" />
+        <option name="FOREGROUND" value="7db397" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
@@ -581,6 +581,8 @@
     <option name="PERL_SUB_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="PERL_VERSION" baseAttributes="PERL_NUMBER" />
     <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
+    <option name="POD_CODE" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="POD_TAG" baseAttributes="DEFAULT_DOC_COMMENT_TAG" />
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="16d977" />
