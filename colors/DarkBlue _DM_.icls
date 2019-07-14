@@ -4,24 +4,24 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-02-01T16:35:17</property>
+    <property name="modified">2019-07-11T09:44:04</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Hasklig" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="1b4661" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1d4e6d" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="e2736" />
     <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -50,6 +50,7 @@
     <option name="SELECTION_BACKGROUND" value="376a89" />
     <option name="SELECTION_FOREGROUND" value="d0d0d0" />
     <option name="TEARLINE_COLOR" value="50809b" />
+    <option name="VISUAL_INDENT_GUIDE" value="606060" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -57,8 +58,8 @@
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="BAD_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="d25252" />
-        <option name="EFFECT_COLOR" value="d25252" />
+        <option name="FOREGROUND" value="ff5959" />
+        <option name="EFFECT_COLOR" value="ff5959" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -67,15 +68,11 @@
         <option name="FOREGROUND" value="cc9966" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="80bfff" />
       </value>
     </option>
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a2323" />
@@ -246,7 +243,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="3d6652" />
+        <option name="FOREGROUND" value="7db397" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
@@ -286,7 +283,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d8d8d8" />
+        <option name="FOREGROUND" value="f0f0f0" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -307,9 +304,9 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="d25252" />
+        <option name="FOREGROUND" value="ff5959" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="d25252" />
+        <option name="EFFECT_COLOR" value="ff5959" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -336,7 +333,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="5c8599" />
+        <option name="FOREGROUND" value="75a8bf" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -346,7 +343,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="66cc99" />
+        <option name="FOREGROUND" value="43bf81" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -387,7 +384,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="40bf00" />
+        <option name="FOREGROUND" value="bf60" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -409,7 +406,7 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="1d4e6d" />
-        <option name="BACKGROUND" value="d8d8d8" />
+        <option name="BACKGROUND" value="d2733" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
@@ -508,9 +505,9 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="995900" />
-        <option name="ERROR_STRIPE_COLOR" value="995900" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_COLOR" value="665b4d" />
+        <option name="ERROR_STRIPE_COLOR" value="665b4d" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -523,6 +520,12 @@
         <option name="FOREGROUND" value="bed6ff" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -562,20 +565,78 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
-    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PERL_ARRAY" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_ARRAY_BUILTIN" baseAttributes="PERL_ARRAY" />
+    <option name="PERL_DQ_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_DX_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_EMBED_MARKER" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="PERL_GLOB" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_GLOB_BUILTIN" baseAttributes="PERL_GLOB" />
+    <option name="PERL_HASH" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_HASH_BUILTIN" baseAttributes="PERL_HASH" />
+    <option name="PERL_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_NUMBER" baseAttributes="DEFAULT_NUMBER" />
+    <option name="PERL_PACKAGE" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="PERL_PACKAGE_CORE" baseAttributes="PERL_PACKAGE" />
+    <option name="PERL_PACKAGE_PRAGMA" baseAttributes="PERL_PACKAGE" />
+    <option name="PERL_REGEX_TOKEN" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_SCALAR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_SQ_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_SUB" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="PERL_SUB_BUILTIN" baseAttributes="PERL_SUB" />
+    <option name="PERL_SUB_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="PERL_VERSION" baseAttributes="PERL_NUMBER" />
+    <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
+    <option name="POD_CODE" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="POD_TAG" baseAttributes="DEFAULT_DOC_COMMENT_TAG" />
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="16d977" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
+    <option name="RHTML_EXPRESSION_END_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_START_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_OMIT_NEW_LINE_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_END_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_START_ID">
+      <value>
+        <option name="FOREGROUND" value="267399" />
+        <option name="BACKGROUND" value="173b52" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="RUBY_EXPR_IN_STRING" baseAttributes="DEFAULT_PARENTHS" />
     <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="RUBY_HASH_ASSOC" baseAttributes="DEFAULT_OPERATION_SIGN" />
@@ -691,6 +752,11 @@
       <value>
         <option name="FOREGROUND" value="ff6666" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="4c9bbf" />
       </value>
     </option>
   </attributes>
