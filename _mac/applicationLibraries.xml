@@ -2143,9 +2143,31 @@
       </excluded>
     </library>
     <library name="Pipenv (devsurvey) interpreter library">
-      <CLASSES />
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/devsurvey-jajOBV3G/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/devsurvey-jajOBV3G/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/devsurvey-jajOBV3G/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-23332310" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/devsurvey-jajOBV3G/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/devsurvey-jajOBV3G/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/devsurvey-jajOBV3G/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-23332310" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
     </library>
     <library name="popper_js (v1.14.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -2316,6 +2338,11 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.1/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.1/tools" />
       </excluded>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="rack (v2.0.6, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -2835,36 +2862,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rvm-1.11.3.9/lib" />
-      </SOURCES>
-    </library>
-    <library name="RVM: jruby-9.1.14.0 [global] facet library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/2.3/site_ruby" />
-        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/stdlib" />
-        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/jruby.jar!/jruby" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/2.3/site_ruby" />
-        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/stdlib" />
-        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/jruby.jar!/jruby" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
-      </SOURCES>
-    </library>
-    <library name="RVM: jruby-9.1.14.0 facet library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/2.3/site_ruby" />
-        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/stdlib" />
-        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/jruby.jar!/jruby" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/2.3/site_ruby" />
-        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/ruby/stdlib" />
-        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.1.14.0/lib/jruby.jar!/jruby" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
       </SOURCES>
     </library>
     <library name="safe_yaml (v1.0.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
