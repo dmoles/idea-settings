@@ -13,7 +13,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <indentOptions>
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </indentOptions>
