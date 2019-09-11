@@ -3722,11 +3722,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.3/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.3/lib" />
       </SOURCES>
