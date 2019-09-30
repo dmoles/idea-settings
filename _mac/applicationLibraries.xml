@@ -3912,6 +3912,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jquery-rails-4.3.3/test" />
       </excluded>
     </library>
+    <library name="jquery-ui" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery-ui-dist@1.12.1_jquery-ui.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery-ui-dist@1.12.1_jquery-ui.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="json (v2.1.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
