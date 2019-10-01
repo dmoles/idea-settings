@@ -5296,6 +5296,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.9.1/test" />
@@ -5303,6 +5304,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.9.1/test" />
