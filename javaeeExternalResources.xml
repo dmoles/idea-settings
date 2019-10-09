@@ -7,6 +7,7 @@
     <resource url="http://purl.org/dc/elements/1.1/" location="$USER_HOME$/Work/mrt-tind-harvester/spec/schemas/dc.xsd" />
     <resource url="http://schema.datacite.org/meta/kernel-3/metadata.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/b583a9c9_metadata.xsd" />
     <resource url="http://schema.datacite.org/meta/kernel-4/metadata.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/97617368_metadata.xsd" />
+    <resource url="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.2/extResources/ba76a09c_MARC21slim.xsd" />
     <resource url="http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/5d059368_OAI-PMH.xsd" />
     <resource url="http://www.openarchives.org/OAI/2.0/oai_dc.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/705f640a_oai_dc.xsd" />
     <resource url="http://www.openarchives.org/OAI/2.0/oai_dc/" location="$USER_HOME$/Work/mrt-tind-harvester/spec/schemas/oai_dc.xsd" />
