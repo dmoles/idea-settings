@@ -4,7 +4,7 @@
     <property name="created">2019-10-17T10:17:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-17T10:51:10</property>
+    <property name="modified">2019-10-17T14:34:10</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -681,6 +681,12 @@
       <value>
         <option name="FOREGROUND" value="ff4040" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="79abff" />
       </value>
     </option>
   </attributes>
