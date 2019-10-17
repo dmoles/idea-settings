@@ -6625,7 +6625,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nio4r-2.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nio4r-2.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nio4r-2.5.1/spec" />
@@ -6634,7 +6633,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nio4r-2.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nio4r-2.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nio4r-2.5.1/spec" />
@@ -11408,7 +11406,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/sqlite3/1.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/sqlite3-1.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/sqlite3-1.4.1/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/sqlite3-1.4.1/lib" />
@@ -11417,7 +11414,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/sqlite3/1.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/sqlite3-1.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/sqlite3-1.4.1/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/sqlite3-1.4.1/lib" />
