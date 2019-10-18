@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
-  <option name="LINE_SEPARATOR" value="&#10;" />
+  <Python>
+    <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
+    <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
+  </Python>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="200" />
     <indentOptions>
@@ -11,24 +14,6 @@
   <codeStyleSettings language="JAVA">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Python">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="XML">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="ruby">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>

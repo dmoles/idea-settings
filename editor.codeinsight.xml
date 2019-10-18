@@ -1,7 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="*.internal.*" />
-  </component>
   <component name="Go">
     <option name="detectGoPackageFromClipboard" value="false" />
   </component>

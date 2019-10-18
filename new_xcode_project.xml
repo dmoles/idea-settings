@@ -1,0 +1,14 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/Projects/FPUI" />
+    <string key="organizationName" value="___FULLUSERNAME___" />
+    <string key="languageChoice" value="Swift" />
+    <string key="documentExtension" value="mydoc" />
+    <string key="bundleIdentifierPrefix" value="net.dmoles" />
+    <boolean key="hasUnitTests" value="true" />
+    <boolean key="coreData" value="false" />
+    <string key="userInterface" value="SwiftUI" />
+    <boolean key="coreDataCloudKit" value="false" />
+    <boolean key="hasUITests" value="true" />
+  </component>
+</application>
