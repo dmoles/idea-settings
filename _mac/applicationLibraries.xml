@@ -4621,7 +4621,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/puma/3.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-3.12.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-3.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-3.12.1/lib" />
@@ -4630,7 +4629,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/puma/3.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-3.12.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-3.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-3.12.1/lib" />
@@ -4649,6 +4647,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/puma/4.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-4.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-4.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-4.2.1/lib" />
@@ -4657,6 +4656,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/puma/4.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-4.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-4.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/puma-4.2.1/lib" />
