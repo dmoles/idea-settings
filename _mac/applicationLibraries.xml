@@ -3145,6 +3145,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/jbuilder-2.9.1/gemfiles" />
       </excluded>
     </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery@3.4.1_dist_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery@3.4.1_dist_jquery.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="jquery-rails (v4.3.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3448,6 +3460,18 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="mediaelement-and-player" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.10_build_mediaelement-and-player.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.10_build_mediaelement-and-player.js" />
+      </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
