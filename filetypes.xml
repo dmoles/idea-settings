@@ -7,7 +7,6 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="tmpl" type="HTML" />
       <mapping pattern="*.md.txt" type="Markdown" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="happybinder" type="PLAIN_TEXT" />
       <mapping pattern="Convertible" type="PLAIN_TEXT" />
       <mapping pattern="INSTALLATION" type="PLAIN_TEXT" />
