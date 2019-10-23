@@ -1825,6 +1825,35 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/domain_name-0.5.20190701/tool" />
       </excluded>
     </library>
+    <library name="dotenv (v2.7.5, RVM: ruby-2.6.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/dotenv-2.7.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/dotenv-2.7.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/dotenv-2.7.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/dotenv-2.7.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/dotenv-2.7.5/bin" />
+      </excluded>
+    </library>
+    <library name="dotenv-rails (v2.7.5, RVM: ruby-2.6.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/dotenv-rails-2.7.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/dotenv-rails-2.7.5/lib" />
+      </SOURCES>
+    </library>
     <library name="e2mmap (v0.1.0, RVM: ruby-2.6.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3414,6 +3443,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.4/lib" />
@@ -3422,6 +3452,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.4/lib" />
