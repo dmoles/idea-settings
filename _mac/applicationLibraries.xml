@@ -3658,6 +3658,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/parser-2.6.5.0/test" />
       </excluded>
     </library>
+    <library name="Pipenv (avmigration) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/avmigration-O0UniPsO/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/avmigration-O0UniPsO/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/avmigration-O0UniPsO/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/1279761531" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/avmigration-O0UniPsO/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/avmigration-O0UniPsO/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/avmigration-O0UniPsO/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/1279761531" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="popper_js (v1.14.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
