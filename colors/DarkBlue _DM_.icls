@@ -4,7 +4,7 @@
     <property name="created">2019-10-17T10:17:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-24T11:42:25</property>
+    <property name="modified">2019-10-24T12:37:41</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -511,7 +511,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2e6399" />
+        <option name="BACKGROUND" value="14283d" />
         <option name="ERROR_STRIPE_COLOR" value="7ca4ba" />
       </value>
     </option>
@@ -730,7 +730,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="17324d" />
+        <option name="BACKGROUND" value="13273b" />
         <option name="ERROR_STRIPE_COLOR" value="7ca4ba" />
       </value>
     </option>
