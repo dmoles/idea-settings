@@ -8113,6 +8113,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/sassc-rails-2.1.2/gemfiles" />
       </excluded>
     </library>
+    <library name="schema_to_scaffold (v0.8.0, RVM: ruby-2.6.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/schema_to_scaffold-0.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/schema_to_scaffold-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/schema_to_scaffold-0.8.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/schema_to_scaffold-0.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/schema_to_scaffold-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/schema_to_scaffold-0.8.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/schema_to_scaffold-0.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/schema_to_scaffold-0.8.0/spec" />
+      </excluded>
+    </library>
     <library name="scrub_rb (v1.0.1, RVM: ruby-2.6.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
