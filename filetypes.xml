@@ -9,6 +9,7 @@
       <mapping pattern="*.md.txt" type="Markdown" />
       <mapping pattern="res1" type="PLAIN_TEXT" />
       <mapping pattern="happybinder" type="PLAIN_TEXT" />
+      <mapping pattern="bundle" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="INSTALLATION" type="PLAIN_TEXT" />
       <mapping pattern=".standalone_migrations" type="PLAIN_TEXT" />
