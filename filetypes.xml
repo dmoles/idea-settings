@@ -7,12 +7,12 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="tmpl" type="HTML" />
       <mapping pattern="*.md.txt" type="Markdown" />
-      <mapping pattern="res1" type="PLAIN_TEXT" />
       <mapping pattern="happybinder" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="Convertible" type="PLAIN_TEXT" />
       <mapping pattern="INSTALLATION" type="PLAIN_TEXT" />
       <mapping pattern=".standalone_migrations" type="PLAIN_TEXT" />
-      <mapping pattern="Convertible" type="PLAIN_TEXT" />
+      <mapping pattern="res1" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="pho" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
