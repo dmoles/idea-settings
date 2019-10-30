@@ -42,4 +42,7 @@
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
+  <action id="WelcomeScreen.Configure.Export">
+    <keyboard-shortcut first-keystroke="shift meta alt j" />
+  </action>
 </keymap>
