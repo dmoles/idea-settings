@@ -4,7 +4,7 @@
     <property name="created">2019-10-17T10:17:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-30T10:52:43</property>
+    <property name="modified">2019-10-30T14:14:22</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -496,6 +496,11 @@
         <option name="EFFECT_COLOR" value="f49810" />
         <option name="ERROR_STRIPE_COLOR" value="f49810" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE">
+      <value>
+        <option name="FOREGROUND" value="f0c080" />
       </value>
     </option>
     <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
