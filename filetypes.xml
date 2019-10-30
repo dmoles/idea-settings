@@ -2,18 +2,18 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="solr-dash2" type="Bash" />
+      <mapping ext="csh" type="Bash" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="tmpl" type="HTML" />
       <mapping pattern="*.md.txt" type="Markdown" />
       <mapping pattern="happybinder" type="PLAIN_TEXT" />
-      <mapping pattern="Convertible" type="PLAIN_TEXT" />
       <mapping pattern="INSTALLATION" type="PLAIN_TEXT" />
-      <mapping pattern=".standalone_migrations" type="PLAIN_TEXT" />
       <mapping pattern="res1" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".standalone_migrations" type="PLAIN_TEXT" />
+      <mapping pattern="Convertible" type="PLAIN_TEXT" />
       <mapping ext="pho" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -28,8 +28,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="gen_csh" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="csh" type="Bash" />
-      <mapping pattern="solr-dash2" type="Bash" />
     </extensionMap>
   </component>
 </application>
