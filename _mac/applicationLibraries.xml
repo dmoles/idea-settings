@@ -7121,6 +7121,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.4/patches" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.10.5, RVM: ruby-2.6.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.5/patches" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.5/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogiri-1.10.5/patches" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.8.2, RVM: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
