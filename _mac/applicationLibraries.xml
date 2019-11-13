@@ -311,6 +311,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/brakeman-4.6.1/bundle" />
       </excluded>
     </library>
+    <library name="brakeman (v4.7.1, RVM: ruby-2.6.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/brakeman-4.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/brakeman-4.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/brakeman-4.7.1/bundle" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/brakeman-4.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/brakeman-4.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/brakeman-4.7.1/bundle" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/brakeman-4.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/brakeman-4.7.1/bundle" />
+      </excluded>
+    </library>
     <library name="builder (v3.2.3, RVM: ruby-2.6.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
