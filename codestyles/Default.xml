@@ -3,9 +3,6 @@
     <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
     <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
   </Python>
-  <Ruby>
-    <option name="INDENT_WHEN_CASES" value="true" />
-  </Ruby>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="200" />
     <indentOptions>
