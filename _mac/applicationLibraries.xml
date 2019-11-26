@@ -632,6 +632,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-6d0b31eb3f92/rakelib" />
       </excluded>
     </library>
+    <library name="av_core (v0.0.1@7e37e7, RVM: ruby-2.6.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-7e37e7d57994/rakelib" />
+      </excluded>
+    </library>
     <library name="av_core (v0.0.1@f74fc3, RVM: ruby-2.6.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -656,6 +682,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-f74fc35f4abf/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-f74fc35f4abf/.idea" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-f74fc35f4abf/rakelib" />
+      </excluded>
+    </library>
+    <library name="av_core (v0.0.1@feb7be, RVM: ruby-2.6.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-feb7be0c451b/rakelib" />
       </excluded>
     </library>
     <library name="awesome_print (v1.8.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
