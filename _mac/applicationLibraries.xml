@@ -669,6 +669,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-0c96716521b9/rakelib" />
       </excluded>
     </library>
+    <library name="av_core (v0.0.1@1460c1, RVM: ruby-2.6.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-1460c17f1e50/rakelib" />
+      </excluded>
+    </library>
     <library name="av_core (v0.0.1@1a5c29, RVM: ruby-2.6.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
