@@ -2598,6 +2598,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/commonmarker-0.17.9/test" />
       </excluded>
     </library>
+    <library name="commonmarker (v0.17.9, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/commonmarker-0.17.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/commonmarker-0.17.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/commonmarker-0.17.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/commonmarker-0.17.9/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/commonmarker-0.17.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/commonmarker-0.17.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/commonmarker-0.17.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/commonmarker-0.17.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/commonmarker-0.17.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/commonmarker-0.17.9/test" />
+      </excluded>
+    </library>
     <library name="concurrent-ruby (v1.1.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3781,6 +3803,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/gemoji-3.0.0/images" />
       </excluded>
     </library>
+    <library name="gemoji (v3.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gemoji-3.0.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gemoji-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gemoji-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gemoji-3.0.0/images" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gemoji-3.0.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gemoji-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gemoji-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gemoji-3.0.0/images" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gemoji-3.0.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gemoji-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gemoji-3.0.0/images" />
+      </excluded>
+    </library>
     <library name="github-markdown (v0.6.9, RVM: ruby-2.6.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3804,6 +3849,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/github-markdown-0.6.9/test" />
       </excluded>
     </library>
+    <library name="github-markdown (v0.6.9, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-0.6.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-0.6.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-0.6.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-0.6.9/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-0.6.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-0.6.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-0.6.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-0.6.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-0.6.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-0.6.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-0.6.9/test" />
+      </excluded>
+    </library>
     <library name="github-markdown-preview (v5.0.0, RVM: ruby-2.6.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3825,6 +3893,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/github-markdown-preview-5.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/github-markdown-preview-5.0.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/github-markdown-preview-5.0.0/test" />
+      </excluded>
+    </library>
+    <library name="github-markdown-preview (v5.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-preview-5.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-preview-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-preview-5.0.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-preview-5.0.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-preview-5.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-preview-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-preview-5.0.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-preview-5.0.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-preview-5.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-preview-5.0.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/github-markdown-preview-5.0.0/test" />
       </excluded>
     </library>
     <library name="globalid (v0.4.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -3968,6 +4059,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/html-pipeline-2.7.1/bin" />
+      </excluded>
+    </library>
+    <library name="html-pipeline (v2.7.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/html-pipeline-2.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/html-pipeline-2.7.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/html-pipeline-2.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/html-pipeline-2.7.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/html-pipeline-2.7.1/bin" />
       </excluded>
     </library>
     <library name="http-accept (v1.7.0, RVM: ruby-2.6.4) [gem]" type="rubylib">
@@ -6038,6 +6146,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogumbo-1.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/nokogumbo-1.5.0/gumbo-parser" />
+      </excluded>
+    </library>
+    <library name="nokogumbo (v1.5.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogumbo-1.5.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogumbo-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogumbo-1.5.0/gumbo-parser" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogumbo-1.5.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogumbo-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogumbo-1.5.0/gumbo-parser" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogumbo-1.5.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogumbo-1.5.0/gumbo-parser" />
       </excluded>
     </library>
     <library name="non-stupid-digest-assets (v1.0.9, RVM: ruby-2.6.4) [gem]" type="rubylib">
@@ -8722,6 +8850,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/ruby-enum-0.7.2/spec" />
       </excluded>
     </library>
+    <library name="ruby-enum (v0.7.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-enum-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-enum-0.7.2/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-enum-0.7.2/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-enum-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-enum-0.7.2/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-enum-0.7.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-enum-0.7.2/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-enum-0.7.2/spec" />
+      </excluded>
+    </library>
     <library name="ruby-graphviz (v1.2.4, RVM: ruby-2.6.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9079,6 +9227,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/sanitize-4.6.4/test" />
+      </excluded>
+    </library>
+    <library name="sanitize (v4.6.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sanitize-4.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sanitize-4.6.4/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sanitize-4.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sanitize-4.6.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sanitize-4.6.4/test" />
       </excluded>
     </library>
     <library name="sass (v3.7.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
