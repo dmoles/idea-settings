@@ -1333,6 +1333,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/bundler/gems/av_core-392e93603fef/rakelib" />
       </excluded>
     </library>
+    <library name="av_core (v0.0.1@3defbb, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-3defbbe4c43d/rakelib" />
+      </excluded>
+    </library>
     <library name="av_core (v0.0.1@541a72, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
