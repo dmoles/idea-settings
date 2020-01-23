@@ -8717,6 +8717,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.0.beta7/ext" />
       </excluded>
     </library>
+    <library name="ruby-debug-ide (v0.7.1.beta3, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.1.beta3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.1.beta3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.1.beta3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.1.beta3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.1.beta3/ext" />
+      </excluded>
+    </library>
     <library name="ruby-enum (v0.7.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
