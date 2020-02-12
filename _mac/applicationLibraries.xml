@@ -7896,6 +7896,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/scrub_rb-1.0.1/benchmark" />
       </excluded>
     </library>
+    <library name="seed_dump (v3.3.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/seed_dump-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/seed_dump-3.3.1/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/seed_dump-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/seed_dump-3.3.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/seed_dump-3.3.1/spec" />
+      </excluded>
+    </library>
     <library name="selenium-webdriver (v3.141.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
