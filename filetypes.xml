@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="mrc" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping pattern=".simplecov" type="Ruby" />
+      <removed_mapping pattern=".simplecov" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
