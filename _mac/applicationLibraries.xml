@@ -9205,6 +9205,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.1/minitest" />
       </excluded>
     </library>
+    <library name="webmock (v3.8.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/minitest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/minitest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/minitest" />
+      </excluded>
+    </library>
     <library name="webpacker (v4.2.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
