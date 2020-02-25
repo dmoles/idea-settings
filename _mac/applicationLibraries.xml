@@ -2035,6 +2035,13 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bundle-audit-0.1.0/bin" />
       </excluded>
     </library>
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.17.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
