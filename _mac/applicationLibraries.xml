@@ -5124,6 +5124,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rainbow-3.0.0/spec" />
       </excluded>
     </library>
+    <library name="rake (v12.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-12.0.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-12.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-12.0.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-12.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-12.0.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-12.0.0/exe" />
+      </excluded>
+    </library>
     <library name="rake (v12.2.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
