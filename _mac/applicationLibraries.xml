@@ -2404,12 +2404,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/byebug/11.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-11.1.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-11.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-11.1.1/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/byebug/11.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-11.1.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-11.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/byebug-11.1.1/lib" />
@@ -2961,6 +2963,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/database_cleaner-1.8.2/adapters" />
+      </excluded>
+    </library>
+    <library name="database_cleaner (v1.8.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/database_cleaner-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/database_cleaner-1.8.3/adapters" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/database_cleaner-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/database_cleaner-1.8.3/adapters" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/database_cleaner-1.8.3/adapters" />
       </excluded>
     </library>
     <library name="debase (v0.2.3.beta5, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -3554,12 +3573,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/samples" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/samples" />
@@ -3792,6 +3813,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/hashdiff-1.0.0/spec" />
       </excluded>
     </library>
+    <library name="hashdiff (v1.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/hashdiff-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/hashdiff-1.0.1/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/hashdiff-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/hashdiff-1.0.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/hashdiff-1.0.1/spec" />
+      </excluded>
+    </library>
     <library name="hashie (v3.6.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3966,11 +4004,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/io-console/0.5.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/io-console-0.5.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/io-console-0.5.5/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/io-console/0.5.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/io-console-0.5.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/io-console-0.5.5/lib" />
       </SOURCES>
@@ -3983,11 +4023,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/io-console/0.5.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/io-console-0.5.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/io-console-0.5.6/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/io-console/0.5.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/io-console-0.5.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/io-console-0.5.6/lib" />
       </SOURCES>
@@ -4166,11 +4208,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/jaro_winkler-1.5.4/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/jaro_winkler-1.5.4/lib" />
       </SOURCES>
@@ -4371,6 +4415,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/json/2.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.0/java" />
@@ -4381,6 +4426,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/json/2.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.0/java" />
@@ -5135,12 +5181,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/mysql2/0.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mysql2-0.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mysql2-0.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mysql2-0.5.3/support" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/mysql2/0.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mysql2-0.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mysql2-0.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mysql2-0.5.3/support" />
@@ -5423,6 +5471,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.8/patches" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.10.9, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/nokogiri/1.10.9" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.9/patches" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/nokogiri/1.10.9" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.9/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.9/patches" />
       </excluded>
     </library>
     <library name="nokogumbo (v1.5.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -5730,6 +5803,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.2/test" />
+      </excluded>
+    </library>
+    <library name="parser (v2.7.0.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/test" />
       </excluded>
     </library>
     <library name="popper_js (v1.14.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
