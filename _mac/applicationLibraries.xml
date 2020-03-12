@@ -895,6 +895,35 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-046f1ed580cd/rakelib" />
       </excluded>
     </library>
+    <library name="av_core (v0.0.1@0647f3, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-0647f3490900/rakelib" />
+      </excluded>
+    </library>
     <library name="av_core (v0.0.1@1ec64d, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9279,6 +9308,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typesafe_enum-0.2.0/spec" />
       </excluded>
     </library>
+    <library name="typesafe_enum (v0.2.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typesafe_enum-0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typesafe_enum-0.2.1/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typesafe_enum-0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typesafe_enum-0.2.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typesafe_enum-0.2.1/spec" />
+      </excluded>
+    </library>
     <library name="typhoeus (v1.3.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9665,6 +9711,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.2/minitest" />
+      </excluded>
+    </library>
+    <library name="webmock (v3.8.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.3/minitest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.3/minitest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webmock-3.8.3/minitest" />
       </excluded>
     </library>
     <library name="webpacker (v4.0.7, RVM: ruby-2.5.1) [gem]" type="rubylib">
