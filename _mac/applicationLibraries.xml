@@ -5231,10 +5231,12 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.10_build_mediaelement-and-player.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.16_build_mediaelement-and-player.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.10_build_mediaelement-and-player.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.16_build_mediaelement-and-player.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -5242,11 +5244,11 @@
     <library name="mediaelementplayer" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.10_build_mediaelementplayer.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.16_build_mediaelementplayer.css" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.10_build_mediaelementplayer.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_mediaelement@4.2.16_build_mediaelementplayer.css" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
