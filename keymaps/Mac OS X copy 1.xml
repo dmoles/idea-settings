@@ -1,16 +1,44 @@
 <keymap version="1" name="Mac OS X copy 1" parent="Mac OS X">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+  </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.OpenDdlInConsole" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorMatchBrace" />
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
+  <action id="GotoAction" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark4" />
+  <action id="GotoBookmark5" />
+  <action id="GotoBookmark6" />
+  <action id="JupyterSelectCellAboveAction" />
+  <action id="JupyterSelectCellBelowAction" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="MinimizeCurrentWindow" />
+  <action id="NextEditorTab" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="NextTab" />
+  <action id="PreviousEditorTab" />
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="PreviousTab" />
+  <action id="Refresh" />
+  <action id="Rerun" />
+  <action id="RestoreDefaultLayout" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -18,6 +46,7 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift meta alt b" />
   </action>
+  <action id="ShowContent" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -41,5 +70,8 @@
   </action>
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
+  </action>
+  <action id="WelcomeScreen.Configure.Export">
+    <keyboard-shortcut first-keystroke="shift meta alt j" />
   </action>
 </keymap>
