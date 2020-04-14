@@ -7986,6 +7986,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.0.4/test" />
       </excluded>
     </library>
+    <library name="pg (v1.2.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25/pg/1.2.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25/pg/1.2.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/spec" />
+      </excluded>
+    </library>
     <library name="popper_js (v1.14.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
