@@ -1211,6 +1211,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/airbrussh-1.3.1/bin" />
       </excluded>
     </library>
+    <library name="ansi (v1.5.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ansi-1.5.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ansi-1.5.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ansi-1.5.0/test" />
+      </excluded>
+    </library>
     <library name="archive-zip (v0.12.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12835,6 +12855,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/simplecov-console-0.2.0/test" />
       </excluded>
     </library>
+    <library name="simplecov-console (v0.7.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/simplecov-console-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/simplecov-console-0.7.2/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/simplecov-console-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/simplecov-console-0.7.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/simplecov-console-0.7.2/test" />
+      </excluded>
+    </library>
     <library name="simplecov-html (v0.10.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13344,6 +13381,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/standalone-migrations-becccc1dd16c/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/standalone-migrations-becccc1dd16c/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/standalone-migrations-becccc1dd16c/example" />
+      </excluded>
+    </library>
+    <library name="terminal-table (v1.8.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/terminal-table-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/terminal-table-1.8.0/examples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/terminal-table-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/terminal-table-1.8.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/terminal-table-1.8.0/examples" />
       </excluded>
     </library>
     <library name="test-unit (v3.2.7, RVM: ruby-2.5.1) [gem]" type="rubylib">
