@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.OpenDdlInConsole" />
   <action id="Diff.ApplyLeftSide" />
@@ -71,6 +74,7 @@
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
+  <action id="Vcs.Push" />
   <action id="WelcomeScreen.Configure.Export">
     <keyboard-shortcut first-keystroke="shift meta alt j" />
   </action>
