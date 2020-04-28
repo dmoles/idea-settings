@@ -7461,6 +7461,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2019.1009/types" />
       </excluded>
     </library>
+    <library name="mime-types-data (v3.2020.0425, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.0425/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.0425/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.0425/types" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.0425/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.0425/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.0425/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.0425/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-types-data-3.2020.0425/types" />
+      </excluded>
+    </library>
     <library name="mimemagic (v0.3.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
