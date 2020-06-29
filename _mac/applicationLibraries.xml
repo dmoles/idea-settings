@@ -11925,6 +11925,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/net-ssh-5.2.0/support" />
       </excluded>
     </library>
+    <library name="net-ssh (v6.1.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-ssh-6.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-ssh-6.1.0/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-ssh-6.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-ssh-6.1.0/support" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-ssh-6.1.0/support" />
+      </excluded>
+    </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.4.4 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
