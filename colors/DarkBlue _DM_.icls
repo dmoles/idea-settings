@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T14:27:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2020-07-03T09:36:40</property>
+    <property name="modified">2020-07-03T09:42:29</property>
     <property name="originalScheme">DarkBlue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -49,10 +49,9 @@
     <option name="SELECTED_TEARLINE_COLOR" value="376a89" />
     <option name="SELECTION_BACKGROUND" value="376a89" />
     <option name="SELECTION_FOREGROUND" value="d0d0d0" />
-    <option name="TABS" value="e67373" />
     <option name="TEARLINE_COLOR" value="50809b" />
     <option name="VISUAL_INDENT_GUIDE" value="606060" />
-    <option name="WHITESPACES" value="43728c" />
+    <option name="WHITESPACES" value="315366" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
