@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="mrc" type="PLAIN_TEXT" />
-      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping pattern="merritt-atomize" type="Ruby" />
-      <mapping pattern=".simplecov" type="Ruby" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="mrc" type="PLAIN_TEXT" />
       <removed_mapping pattern=".simplecov" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="merritt-atomize" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".simplecov" type="Ruby" />
+      <mapping pattern="merritt-atomize" type="Ruby" />
     </extensionMap>
   </component>
 </application>
