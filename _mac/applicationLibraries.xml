@@ -735,6 +735,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ast-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.1, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/ast-2.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/ast-2.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="astrolabe (v1.3.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4367,6 +4379,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parallel-1.19.2/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.19.2, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parallel-1.19.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parallel-1.19.2/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.7.0.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4469,6 +4493,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.1.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.1.4/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.7.1.4/test" />
+      </excluded>
+    </library>
+    <library name="parser (v2.7.1.4, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/parser-2.7.1.4/test" />
       </excluded>
     </library>
     <library name="pg (v1.2.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -5482,6 +5532,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/regexp_parser-1.7.1/spec" />
       </excluded>
     </library>
+    <library name="regexp_parser (v1.7.1, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/regexp_parser-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/regexp_parser-1.7.1/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/regexp_parser-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/regexp_parser-1.7.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/regexp_parser-1.7.1/spec" />
+      </excluded>
+    </library>
     <library name="reline (v0.1.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6091,6 +6158,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.86.0/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.89.0, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-0.89.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop-ast (v0.0.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6125,6 +6218,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-ast-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop-ast (v0.3.0, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-ast-0.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-ast-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.7.1.beta3, RVM: ruby-2.6.5) [gem]" type="rubylib">
