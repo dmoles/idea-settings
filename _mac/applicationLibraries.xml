@@ -1362,6 +1362,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.6/.github" />
       </excluded>
     </library>
+    <library name="bootsnap (v1.4.7, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/bootsnap/1.4.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.7/.github" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/bootsnap/1.4.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.7/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bootsnap-1.4.7/.github" />
+      </excluded>
+    </library>
     <library name="brakeman (v4.7.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1972,6 +1997,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.32.2/spec" />
+      </excluded>
+    </library>
+    <library name="capybara (v3.33.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.33.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.33.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.33.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.33.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.33.0/spec" />
       </excluded>
     </library>
     <library name="capybara (v3.33.0, RVM: ruby-2.7.1) [gem]" type="rubylib">
@@ -4580,6 +4622,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.10/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.10/lib" />
@@ -4587,6 +4630,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.10/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.10/lib" />
@@ -4790,6 +4834,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/oj-3.10.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/oj-3.10.6/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/oj-3.10.6/pages" />
+      </excluded>
+    </library>
+    <library name="oj (v3.10.8, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/oj/3.10.8" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/oj-3.10.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/oj-3.10.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/oj-3.10.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/oj-3.10.8/pages" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/oj/3.10.8" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/oj-3.10.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/oj-3.10.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/oj-3.10.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/oj-3.10.8/pages" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/oj-3.10.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/oj-3.10.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/oj-3.10.8/pages" />
       </excluded>
     </library>
     <library name="oj (v3.10.8, RVM: ruby-2.7.1) [gem]" type="rubylib">
@@ -8559,11 +8628,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/websocket-driver/0.7.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/websocket-driver-0.7.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/websocket-driver-0.7.3/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/websocket-driver/0.7.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/websocket-driver-0.7.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/websocket-driver-0.7.3/lib" />
       </SOURCES>
