@@ -950,6 +950,35 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/astrolabe-1.3.1/benchmark" />
       </excluded>
     </library>
+    <library name="av_core (v0.0.1@05aaca, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-05aacaf9dcfd/rakelib" />
+      </excluded>
+    </library>
     <library name="av_core (v0.0.1@0b2aa7, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
