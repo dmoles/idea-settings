@@ -6238,6 +6238,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.86.0/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.89.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rubocop-0.89.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop (v0.89.0, RVM: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
