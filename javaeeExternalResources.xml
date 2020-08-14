@@ -20,5 +20,7 @@
     <resource url="https://dash.cdlib.org/stash_wrapper/" location="$USER_HOME$/Work/Stash/stash-harvester/spec/data/wrapper/stash_wrapper.xsd" />
     <resource url="https://www.loc.gov/ead/ead3.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.3/extResources/358b80cd_ead3.dtd" />
     <ignored-resource url="http://invenio-software.org/elements/1.0" />
+    <ignored-resource url="http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" />
+    <ignored-resource url="urn:mpeg:dash:schema:mpd:2011" />
   </component>
 </application>
