@@ -1171,6 +1171,35 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-573f0a1eb7b1/rakelib" />
       </excluded>
     </library>
+    <library name="av_core (v0.0.1@98b290, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-98b290231c14/rakelib" />
+      </excluded>
+    </library>
     <library name="av_core (v0.0.1@9a8442, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
