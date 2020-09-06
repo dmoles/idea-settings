@@ -7986,6 +7986,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/nokogiri/1.10.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.10.10/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.10.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.10.10/lib" />
@@ -7993,6 +7994,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/nokogiri/1.10.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.10.10/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.10.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.10.10/lib" />
@@ -12712,6 +12714,41 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.1/lib/ruby/gems/2.7.0/gems/rubygems-bundler-1.4.5/test" />
+      </excluded>
+    </library>
+    <library name="rubygems-update (v3.1.4, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/util" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/.bundle" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/bundler" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/hide_lib_for_update" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/util" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/.bundle" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/bundler" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/hide_lib_for_update" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/util" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/.bundle" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubygems-update-3.1.4/bundler" />
       </excluded>
     </library>
     <library name="rubyzip (v1.3.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
