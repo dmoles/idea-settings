@@ -4482,6 +4482,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/debase-0.2.5.beta1/test" />
       </excluded>
     </library>
+    <library name="debase-ruby_core_source (v0.10.10, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-ruby_core_source-0.10.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-ruby_core_source-0.10.10/lib" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.10.9, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
