@@ -8,8 +8,10 @@
     <option name="disabledHintProviderIds">
       <set>
         <option value="JAVA.chain.hints" />
+        <option value="JAVA.java.implicit.types" />
       </set>
     </option>
+    <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
 </application>
