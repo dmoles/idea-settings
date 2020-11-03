@@ -2,7 +2,7 @@
   <component name="XPathView.XPathViewPlugin">
     <option name="SEARCH_SCOPE">
       <SearchScope scope-name="All Places" type="MODULE">
-        <moduleName>wowza</moduleName>
+        <moduleName>ced-migrator</moduleName>
         <path>$USER_HOME$/Projects/dmoles.net/src</path>
       </SearchScope>
     </option>
