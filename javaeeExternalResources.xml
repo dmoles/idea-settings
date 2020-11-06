@@ -1,19 +1,27 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="antlib:org.apache.maven.artifact.ant" location="$USER_HOME$/Work/UCOP/was-indexer-service/lib/maven-ant-tasks-2.1.3.jar!/org/apache/maven/artifact/ant/antlib.xml" />
+    <resource url="http://cosimo.stanford.edu/sdr/metsrights/" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/extResources/2a198910_METSRights.xsd" />
     <resource url="http://dash.cdlib.org/stash_wrapper/stash_wrapper.xsd" location="$USER_HOME$/Work/Stash/stash-wrapper/spec/data/wrapper/stash_wrapper.xsd" />
     <resource url="http://datacite.org/schema/kernel-3" location="$USER_HOME$/Work/Stash/stash-wrapper/spec/data/metadata.xsd" />
     <resource url="http://dublincore.org/schemas/xmls/simpledc20021212.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/eb9a377c_simpledc20021212.xsd" />
     <resource url="http://purl.org/dc/elements/1.1/" location="$USER_HOME$/Work/mrt-tind-harvester/spec/schemas/dc.xsd" />
     <resource url="http://schema.datacite.org/meta/kernel-3/metadata.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/b583a9c9_metadata.xsd" />
     <resource url="http://schema.datacite.org/meta/kernel-4/metadata.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/97617368_metadata.xsd" />
+    <resource url="http://www.loc.gov/METS/" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/extResources/f0762099_mets.xsd" />
+    <resource url="http://www.loc.gov/mix/v10" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/extResources/216c07e_mix10.xsd" />
+    <resource url="http://www.loc.gov/mods/v3" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/extResources/8de136bc_mods-3-2.xsd" />
     <resource url="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.2/extResources/ba76a09c_MARC21slim.xsd" />
+    <resource url="http://www.loc.gov/standards/premis/premis.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/extResources/cdb14479_premis.xsd" />
+    <resource url="http://www.loc.gov/standards/xlink.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/extResources/d609d3fc_xlink.xsd" />
+    <resource url="http://www.loc.gov/standards/xlink/xlink.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/extResources/2811e75f_xlink.xsd" />
     <resource url="http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/5d059368_OAI-PMH.xsd" />
     <resource url="http://www.openarchives.org/OAI/2.0/oai_dc.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/705f640a_oai_dc.xsd" />
     <resource url="http://www.openarchives.org/OAI/2.0/oai_dc/" location="$USER_HOME$/Work/mrt-tind-harvester/spec/schemas/oai_dc.xsd" />
     <resource url="http://www.openarchives.org/rs/terms/" location="$USER_HOME$/Work/Stash/resync/spec/data/resourcesync.xsd" />
     <resource url="http://www.sitemaps.org/schemas/sitemap/0.9" location="$USER_HOME$/Work/Stash/resync/spec/data/sitemap.xsd" />
     <resource url="http://www.w3.org/2001/03/xml.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/1c608002_xml.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/extResources/9b192256_xml.xsd" />
     <resource url="http://www.w3.org/2007/XMLSchema-versioning/XMLSchema-versioning.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/92d998d4_XMLSchema-versioning.xsd" />
     <resource url="http://www.w3.org/2009/01/xml.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/3164ccf8_xml.xsd" />
     <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.2/extResources/2889bd79_svg11.dtd" />
