@@ -1239,6 +1239,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/activemodel-6.0.3.4/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v5.2.2.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.2.1/examples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.2.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.2.1/examples" />
+      </excluded>
+    </library>
     <library name="activerecord (v5.2.4.4, RVM: ruby-2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -16904,6 +16921,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/railties-4.2.11.1/bin" />
       </excluded>
     </library>
+    <library name="railties (v5.2.2.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.2.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.2.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.2.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.2.1/exe" />
+      </excluded>
+    </library>
     <library name="railties (v5.2.4.4, RVM: ruby-2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -17409,6 +17443,29 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v12.3.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.2/exe" />
       </excluded>
     </library>
     <library name="rake (v12.3.2, RVM: ruby-2.6.3) [gem]" type="rubylib">
@@ -19428,6 +19485,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rspec-core-3.10.0/exe" />
       </excluded>
     </library>
+    <library name="rspec-core (v3.8.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-core-3.8.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-core-3.8.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-core-3.8.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-core-3.8.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-core-3.8.2/exe" />
+      </excluded>
+    </library>
     <library name="rspec-core (v3.9.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -19980,6 +20054,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rspec-mocks-3.9.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.8.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-rails-3.8.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-rails-3.8.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-rails (v3.9.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
