@@ -2629,6 +2629,35 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/av_core-196db07bc149/rakelib" />
       </excluded>
     </library>
+    <library name="av_core (v0.0.1@376de6, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/av_core-376de6cb648b/rakelib" />
+      </excluded>
+    </library>
     <library name="av_core (v0.0.1@5551f3, RVM: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12149,6 +12178,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mime-types-data-3.2020.0512/types" />
       </excluded>
     </library>
+    <library name="mime-types-data (v3.2020.1104, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mime-types-data-3.2020.1104/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mime-types-data-3.2020.1104/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mime-types-data-3.2020.1104/types" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mime-types-data-3.2020.1104/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mime-types-data-3.2020.1104/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mime-types-data-3.2020.1104/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mime-types-data-3.2020.1104/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mime-types-data-3.2020.1104/types" />
+      </excluded>
+    </library>
     <library name="mimemagic (v0.3.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18798,6 +18847,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/reline-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="reline (v0.1.4, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/reline-0.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/reline-0.1.4/lib" />
       </SOURCES>
     </library>
     <library name="reline (v0.1.4, RVM: ruby-2.7.2) [gem]" type="rubylib">
