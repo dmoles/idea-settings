@@ -9040,6 +9040,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/erubi-1.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="erubi (v1.10.0, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/erubi-1.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/erubi-1.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="erubi (v1.8.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13336,6 +13348,18 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/loofah-2.7.0/benchmark" />
       </excluded>
+    </library>
+    <library name="loofah (v2.8.0, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/loofah-2.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/loofah-2.8.0/lib" />
+      </SOURCES>
     </library>
     <library name="mail (v2.7.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -31596,6 +31620,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/zeitwerk-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="zeitwerk (v2.4.2, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/zeitwerk-2.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/zeitwerk-2.4.2/lib" />
       </SOURCES>
     </library>
     <library name="zipruby (v0.3.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
