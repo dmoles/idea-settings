@@ -13571,6 +13571,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/lograge-0.11.2/lib" />
       </SOURCES>
     </library>
+    <library name="lograge (v0.11.2, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/lograge-0.11.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/lograge-0.11.2/lib" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.3.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -22795,6 +22807,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/request_store-1.5.0/test" />
+      </excluded>
+    </library>
+    <library name="request_store (v1.5.0, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/request_store-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/request_store-1.5.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/request_store-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/request_store-1.5.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/request_store-1.5.0/test" />
       </excluded>
     </library>
     <library name="responders (v3.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
