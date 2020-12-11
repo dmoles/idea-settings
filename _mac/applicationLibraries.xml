@@ -27363,6 +27363,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-907941eb3dc4/rakelib" />
       </excluded>
     </library>
+    <library name="ucblit-logging (v0.0.1@d3b4e5, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-d3b4e5de5da8/rakelib" />
+      </excluded>
+    </library>
     <library name="uglifier (v4.1.20, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
