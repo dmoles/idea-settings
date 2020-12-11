@@ -27337,6 +27337,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-345e764a5bcd/rakelib" />
       </excluded>
     </library>
+    <library name="ucblit-logging (v0.0.1@82a760, RVM: ruby-2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/bundler/gems/ucblit-logging-82a760743b02/rakelib" />
+      </excluded>
+    </library>
     <library name="ucblit-logging (v0.0.1@907941, RVM: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
