@@ -21103,6 +21103,52 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ronn-0.7.3/test" />
       </excluded>
     </library>
+    <library name="roo (v2.8.3, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/examples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-2.8.3/examples" />
+      </excluded>
+    </library>
+    <library name="roo-xls (v1.2.0, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-xls-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-xls-1.2.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-xls-1.2.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-xls-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-xls-1.2.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-xls-1.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-xls-1.2.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/roo-xls-1.2.0/test" />
+      </excluded>
+    </library>
     <library name="rspec (v2.14.1, RVM: ruby-2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -23434,6 +23480,26 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/ruby-enum-0.8.0/spec" />
+      </excluded>
+    </library>
+    <library name="ruby-ole (v1.2.12.2, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ruby-ole-1.2.12.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ruby-ole-1.2.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ruby-ole-1.2.12.2/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ruby-ole-1.2.12.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ruby-ole-1.2.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ruby-ole-1.2.12.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ruby-ole-1.2.12.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ruby-ole-1.2.12.2/test" />
       </excluded>
     </library>
     <library name="ruby-progressbar (v1.10.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -25892,6 +25958,26 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="spreadsheet (v1.2.6, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/spreadsheet-1.2.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/spreadsheet-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/spreadsheet-1.2.6/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/spreadsheet-1.2.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/spreadsheet-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/spreadsheet-1.2.6/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/spreadsheet-1.2.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/spreadsheet-1.2.6/test" />
+      </excluded>
     </library>
     <library name="spring (v2.0.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
