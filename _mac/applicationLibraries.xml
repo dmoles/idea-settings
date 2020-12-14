@@ -19582,6 +19582,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rb-inotify-0.10.1/spec" />
       </excluded>
     </library>
+    <library name="rchardet (v1.8.0, RVM: ruby-2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rchardet-1.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rchardet-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rdiscount (v2.2.0.2, RVM: ruby-2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
