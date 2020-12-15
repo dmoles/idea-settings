@@ -8,14 +8,12 @@
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping ext="pm" type="PLAIN_TEXT" />
       <mapping ext="checkm" type="PLAIN_TEXT" />
       <mapping ext="mrc" type="PLAIN_TEXT" />
       <mapping pattern="merritt-atomize" type="Ruby" />
       <mapping pattern=".simplecov" type="Ruby" />
       <mapping pattern=".xml.original" type="XML" />
       <mapping ext="mpd" type="XML" />
-      <removed_mapping ext="pm" approved="true" type="Perl" />
       <removed_mapping pattern="*.xml.orig" approved="true" type="XML" />
       <removed_mapping pattern=".simplecov" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="merritt-atomize" approved="true" type="PLAIN_TEXT" />
