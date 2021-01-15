@@ -5834,12 +5834,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/ffi/1.14.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ffi-1.14.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ffi-1.14.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ffi-1.14.2/samples" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/ffi/1.14.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ffi-1.14.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ffi-1.14.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/ffi-1.14.2/samples" />
@@ -6683,12 +6685,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/http-parser/1.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/http-parser-1.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/http-parser-1.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/http-parser-1.2.2/spec" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/http-parser/1.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/http-parser-1.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/http-parser-1.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/http-parser-1.2.2/spec" />
@@ -7648,12 +7652,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/json/2.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/json-2.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/json-2.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/json-2.5.1/tests" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/json/2.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/json-2.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/json-2.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/json-2.5.1/tests" />
@@ -9670,12 +9676,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/nokogiri/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nokogiri-1.11.1-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nokogiri-1.11.1-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nokogiri-1.11.1-x86_64-darwin/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/nokogiri/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nokogiri-1.11.1-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nokogiri-1.11.1-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/nokogiri-1.11.1-x86_64-darwin/lib" />
@@ -9911,6 +9919,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/oj/3.10.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/oj-3.10.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/oj-3.10.18/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/oj-3.10.18/test" />
@@ -9918,6 +9927,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/oj/3.10.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/oj-3.10.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/oj-3.10.18/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/oj-3.10.18/test" />
@@ -11574,6 +11584,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/racc/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/racc-1.5.2/lib" />
@@ -11584,6 +11595,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/racc/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/racc-1.5.2/lib" />
@@ -12634,12 +12646,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rb-fsevent-0.10.4/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs27/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/rb-fsevent-0.10.4/lib" />
