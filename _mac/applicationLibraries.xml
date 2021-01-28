@@ -14377,28 +14377,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/pdf-core-0.8.1/lib" />
       </SOURCES>
     </library>
-    <library name="pg (v1.2.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25/pg/1.2.3" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/spec" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25/pg/1.2.3" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.2.3/spec" />
-      </excluded>
-    </library>
     <library name="pg (v1.2.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -23023,34 +23001,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2/gems/sprockets-rails-3.2.2/lib" />
       </SOURCES>
-    </library>
-    <library name="sqlite3 (v1.3.13, RVM: ruby-2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25/sqlite3/1.3.13" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/faq" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/tasks" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25/sqlite3/1.3.13" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/faq" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/tasks" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/faq" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/tasks" />
-      </excluded>
     </library>
     <library name="sqlite3 (v1.3.13, RVM: ruby-2.6.6) [gem]" type="rubylib">
       <properties>
