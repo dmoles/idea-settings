@@ -44,6 +44,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
+    <option name="BLANK_LINES_AROUND_CLASS" value="0" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
     <indentOptions>
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </indentOptions>
